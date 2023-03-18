@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACEAX">
+    <Package name="compat_3cbfac">
+		// Weapon Names
+        <Key ID="STR_ACEAX_compat_3cbfac_augsr_carbine">
+            <English>AUG-SR Carbine</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_auga1_carbine">
+            <English>AUGA1 Carbine</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_auga2_carbine">
+            <English>AUGA2 Carbine</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_enfield_no5">
+            <English>Enfield No. 5 Carb.</English>
+        </Key>
+		
+		
+		// Camos
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_wood_label">
+            <English>Wood</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_akwood_desc">
+            <English>Laminated Wood</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_akblk_label">
+            <English>Black</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_akblk_desc">
+            <English>Black Polymer</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_akplum_label">
+            <English>Plum</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_akplum_desc">
+            <English>Russian Plum Polymer</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_p90_camo">
+            <English>Camo</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_p90_hex">
+            <English>Hex</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_beech">
+            <English>Beech</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_walnut">
+            <English>Walnut</English>
+        </Key>
+		
+		// Misc Options
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_none">
+            <English>None</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_no">
+            <English>No</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_yes">
+            <English>Yes</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_enfield_scope">
+            <English>Telescopic Sight Fitted</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_optic">
+            <English>Optic</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_widegrip">
+            <English>Widegrip</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_sling">
+            <English>Sling</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_attachsys">
+            <English>Attachment System</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_picatinny_label">
+            <English>Picatinny</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_picatinny_description">
+            <English>Picatinny Rail</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_ris_label">
+            <English>RIS</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_ris_description">
+            <English>Rail Integration System</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_warsaw_label">
+            <English>Warswaw</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_warsaw_description">
+            <English>Warsaw Pact Rail</English>
+        </Key>
+    </Package>
+</Project>
