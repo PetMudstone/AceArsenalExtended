@@ -9,6 +9,15 @@ class XtdGearInfos {
 
     class CfgWeapons {
         //Headgear
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_6b27m.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_6b27m_gaf.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_afr_ex_headscarf.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_afr_turban_wrap.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_ballistic_mask.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_bandanna.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_hsat_mkiii.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_hsat_ptype.hpp"
+        #include "XtdGearInfos\3cb_headgear\CfgWeapons\3cb_mkiv_helmet.hpp"
 
         //Uniforms
 

@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="ACEAX">
     <Package name="compat_3cbfac">
-		// Weapon Names
+    // Clothing Names
+
+        // Headgear Names
+		<Key ID="STR_ACEAX_compat_3cbfac_6b27m">
+            <English>6b27M</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_6b27m_gaf">
+            <English>6b27M [GAF]</English>
+        </Key>
+		
+        <Key ID="STR_ACEAX_compat_3cbfac_ballistic_mask">
+            <English>Ballistic Mask</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_afr_ex_headscarf">
+            <English>Afr. Ex. Hdscrf.</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_afr_turban_wrap">
+            <English>Afr. Turban</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_bandanna">
+            <English>Bandanna</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_hsat_mkiii">
+            <English>HSAT MKIII</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_hsat_ptype">
+            <English>HSAT P-TYPE</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_mkiv">
+            <English>MK IV</English>
+        </Key>
+
+        // Uniform Names
+        <Key ID="STR_ACEAX_compat_3cbfac_gorka_r_gen">
+            <English>Gorka-R</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gorka_r_gaf">
+            <English>Gorka-R [GAF]</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gorka_r_ion">
+            <English>Gorka-R [ION]</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gorka_r_lnm">
+            <English>Gorka-R [LNM]</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gorka_r_lsm">
+            <English>Gorka-R [LSM]</English>
+        </Key>
+
+    // Weapon Names
         <Key ID="STR_ACEAX_compat_3cbfac_augsr_carbine">
             <English>AUG-SR Carbine</English>
         </Key>
@@ -19,8 +79,330 @@
         </Key>
 		
 		
-		// Camos
+	// Camos
+
+        // Clothing Camos
+		<Key ID="STR_ACEAX_compat_3cbfac_aafblk_label">
+            <English>AAF Black</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_aafblk_desc">
+            <English>AAF Digital Black</English>
+        </Key>
 		
+		<Key ID="STR_ACEAX_compat_3cbfac_aafbrn_label">
+            <English>AAF Brown</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_aafbrn_desc">
+            <English>AAF Digital Brown</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_aafnavy_label">
+            <English>AAF Navy</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_aafnavy_desc">
+            <English>AAF Digital Navy</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_navy_blue">
+            <English>Navy Blue</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_chocchip_urb_label">
+            <English>UCC</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_chocchip_urb_desc">
+            <English>Urban Chocolate-Chip</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_clown">
+            <English>Clown</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_desert">
+            <English>Desert</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_dpm_68_label">
+            <English>DPM 68</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_68_desc">
+            <English>Disruptive Pattern Material 1968</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_dpm_85_label">
+            <English>DPM 85</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_85_desc">
+            <English>Disruptive Pattern Material 1985</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_dpm_95_label">
+            <English>DPM 95</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_95_desc">
+            <English>Disruptive Pattern Material 1995</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_arid_label">
+            <English>DPM Arid</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_arid_desc">
+            <English>Disruptive Pattern Material Arid</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_dpm_grass_label">
+            <English>DPM Grass</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_grass_desc">
+            <English>Disruptive Pattern Material Grassland</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_navy_label">
+            <English>DPM Navy</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpm_navy_desc">
+            <English>Disruptive Pattern Material Navy</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpp_label">
+            <English>DPP</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpp_desc">
+            <English>Desert Polygon Pattern</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpp_cov_label">
+            <English>DPP Cov.</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpp_cov_desc">
+            <English>Desert Polygon Pattern Cover</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpp_cov_alt_label">
+            <English>DPP Cov. 2</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dpp_cov_alt_desc">
+            <English>Desert Polygon Pattern Cover 2</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_erdl_afg_label">
+            <English>ERDL AFG</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_erdl_afg_desc">
+            <English>ERDL Afghanistan</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_flora_alt_label">
+            <English>Flora Alt</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_flora_alt_desc">
+            <English>Flora Alternate</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_gafdigi_label">
+            <English>GAF DIGI</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_gafdigi_desc">
+            <English>GAF Digital</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_greek_liz_label">
+            <English>Grk Liz</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_greek_liz_desc">
+            <English>Greek Lizard</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_m81_01_label">
+            <English>M81 1</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_m81_02_label">
+            <English>M81 2</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_m81_03_label">
+            <English>M81 3</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_m81_desc">
+            <English>M81 Woodland</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_nato_label">
+            <English>NATO</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_oli_cov_label">
+            <English>Olive Cov</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_oli_cov_desc">
+            <English>Olive Cover</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_brown_label">
+            <English>Brn Chk</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_brown_desc">
+            <English>Brown Checkerboard</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_green_label">
+            <English>Grn Chk</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_green_desc">
+            <English>Green Checkerboard</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_red_label">
+            <English>Red Chk</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_red_desc">
+            <English>Red Checkerboard</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_white_label">
+            <English>Wht Chk</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_checker_white_desc">
+            <English>White Checkerboard</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_rhode_brush_label">
+            <English>Rhd Brush</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_rhode_brush_desc">
+            <English>Rhodesian Brushstroke</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_spec4ce">
+            <English>Spec4ce</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_surpat">
+            <English>SURPAT</English>
+        </Key>
+		
+        <Key ID="STR_ACEAX_compat_3cbfac_m2008_label">
+            <English>M2008</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_m2008_desc">
+            <English>Turkish M2008</English>
+        </Key>
+
+		<Key ID="STR_ACEAX_compat_3cbfac_un_cov_label">
+            <English>UN Cov.</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_un_cov_desc">
+            <English>UN Cover</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_vegetato_label">
+            <English>Vegetato</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_vegetato_desc">
+            <English>Vegetato</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_winter_label">
+            <English>Winter</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_winter_desc">
+            <English>Winter</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_winter_flora_label">
+            <English>Wint Flra</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_winter_flora_desc">
+            <English>Winter Flora</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_hand_red_label">
+            <English>Hand Red</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_hand_red_desc">
+            <English>Handprint Red</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_hand_white_label">
+            <English>Hand White</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_hand_white_desc">
+            <English>Hand. White</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_lightning_label">
+            <English>Lightning</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_redclaw_label">
+            <English>Red Claw</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_skull_1_label">
+            <English>Skull 1</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_skull_2_label">
+            <English>Skull 2</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_smiley">
+            <English>Smiley</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_snake_brn_label">
+            <English>Snake Brown</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_snake_brn_desc">
+            <English>Brown Snakeskin</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_snake_oli_label">
+            <English>Snake Olive</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_snake_oli_desc">
+            <English>Olive Snakekin</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_turquoise">
+            <English>Turquoise</English>
+        </Key>
+
+        // Weapon Camos
 		<Key ID="STR_ACEAX_compat_3cbfac_wood_label">
             <English>Wood</English>
         </Key>
@@ -61,7 +443,7 @@
             <English>Walnut</English>
         </Key>
 		
-		// Misc Options
+	// Misc Options
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_none">
             <English>None</English>
@@ -73,6 +455,38 @@
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_yes">
             <English>Yes</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_balaclava">
+            <English>Balaclava</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_goggles">
+            <English>Goggles</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_flag">
+            <English>Flag</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_marking">
+            <English>Marking</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_marking_fia_1">
+            <English>FIA 1</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_marking_fia_2">
+            <English>FIA 2</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_marking_fia_3">
+            <English>FIA 3</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_netting">
+            <English>Netting</English>
         </Key>
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_enfield_scope">
@@ -117,6 +531,22 @@
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_warsaw_description">
             <English>Warsaw Pact Rail</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_wrap_pos">
+            <English>Wrap Position</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_neck">
+            <English>Neck</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_mouth">
+            <English>Mouth</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_variant">
+            <English>Variant</English>
         </Key>
     </Package>
 </Project>

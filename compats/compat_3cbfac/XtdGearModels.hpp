@@ -1,21 +1,30 @@
 class XtdGearModels {
     #include "XtdGearModels_Common.hpp"
     class CfgGlasses {
-        //Facewear
+        // Facewear
     };
 
     class CfgVehicles {
-        //Backpacks
+        // Backpacks
     };
 
     class CfgWeapons {
-        //Headgear
+        // Headgear
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_6b27m.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_6b27m_gaf.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_afr_ex_headscarf.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_afr_turban_wrap.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_ballistic_mask.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_bandanna.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_hsat_mkiii.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_hsat_ptype.hpp"
+        #include "XtdGearModels\3cb_headgear\CfgWeapons\3cb_mkiv_helmet.hpp"
 
-        //Uniforms
+        // Uniforms
 
-        //Vests
+        // Vests
 
-        //NVG
+        // NVG
 
         // Weapons : Primaries
         #include "XtdGearModels\3cb_weapon\CfgWeapons\3cb_auga1.hpp"
