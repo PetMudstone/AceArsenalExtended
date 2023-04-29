@@ -2,6 +2,7 @@ class CamoBase
 {
 	// Clothing Camos
 
+	// AAF Camos
 	class AAF_BLK // AAF Digital Black 
 	{
 		label = "$STR_ACEAX_compat_3cbfac_aafblk_label";
@@ -20,11 +21,32 @@ class CamoBase
 		description = "$STR_ACEAX_compat_3cbfac_aafnavy_desc";
 	};
 
-	class CHOC_CHIP_URB // Urban Chocolate-Chip
+	// Checkerboard Patterns (for bandannas)
+	class BRN_CHK
 	{
-		label = "$STR_ACEAX_compat_3cbfac_chocchip_urb_label";
-		description = "$STR_ACEAX_compat_3cbfac_chocchip_urb_desc";
+		label = "$STR_ACEAX_compat_3cbfac_checker_brown_label";
+		description = "$STR_ACEAX_compat_3cbfac_checker_brown_desc";
 	};
+
+	class GRN_CHK
+	{
+		label = "$STR_ACEAX_compat_3cbfac_checker_green_label";
+		description = "$STR_ACEAX_compat_3cbfac_checker_green_label";
+	};
+
+	class RED_CHK
+	{
+		label = "$STR_ACEAX_compat_3cbfac_hand_red_label";
+		description = "$STR_ACEAX_compat_3cbfac_hand_red_desc";
+	};
+
+	class WHT_CHK
+	{
+		label = "$STR_ACEAX_compat_3cbfac_checker_white_label";
+		description = "$STR_ACEAX_compat_3cbfac_checker_white_label";
+	};
+
+	// DPM Variants
 
 	class DPM_68
 	{
@@ -62,10 +84,44 @@ class CamoBase
 		description = "$STR_ACEAX_compat_3cbfac_dpm_navy_desc";
 	};
 
-	class DPP
+	// KLMK
+
+	class KLMK_WIN_GRN
+	{
+		label = "$STR_ACEAX_compat_3cbfac_klmk_winter_green_label";
+		description = "$STR_ACEAX_compat_3cbfac_klmk_winter_green_desc";
+	};
+
+	class KLMK_WIN_GRY
+	{
+		label = "$STR_ACEAX_compat_3cbfac_klmk_winter_grey_label";
+		description = "$STR_ACEAX_compat_3cbfac_klmk_winter_grey_desc";
+	};
+
+	// Misc Camos
+
+	class CHOC_CHIP_URB // Urban Chocolate-Chip
+	{
+		label = "$STR_ACEAX_compat_3cbfac_chocchip_urb_label";
+		description = "$STR_ACEAX_compat_3cbfac_chocchip_urb_desc";
+	};
+
+	class DPP // Desert Polygon Pattern
 	{
 		label = "$STR_ACEAX_compat_3cbfac_dpp_label";
 		description = "$STR_ACEAX_compat_3cbfac_dpp_desc";
+	};
+
+	class DWP // Digital Winter Pattern
+	{
+		label = "$STR_ACEAX_compat_3cbfac_dwp_label";
+		description = "$STR_ACEAX_compat_3cbfac_dwp_desc";
+	};
+
+	class FLRA_ALT
+	{
+		label = "$STR_ACEAX_compat_3cbfac_flora_alt_label";
+		description = "$STR_ACEAX_compat_3cbfac_flora_alt_desc";
 	};
 
 	class ERDL_AFG
@@ -108,10 +164,22 @@ class CamoBase
 		description = "$STR_ACEAX_compat_3cbfac_m2008_desc";
 	};
 
+	class MEE // Middle Eastern Extremist
+	{
+		label = "$STR_ACEAX_compat_3cbfac_mee_label";
+		description = "$STR_ACEAX_compat_3cbfac_mee_desc";
+	};
+
 	class VEG
 	{
 		label = "$STR_ACEAX_compat_3cbfac_vegetato_label";
 		description = "$STR_ACEAX_compat_3cbfac_vegetato_desc";
+	};
+
+	class WIN_FLRA
+	{
+		label = "$STR_ACEAX_compat_3cbfac_winter_flora_label";
+		description = "$STR_ACEAX_compat_3cbfac_winter_flora_desc";
 	};
 
 	// Weapon camos.

@@ -2,6 +2,14 @@ class XtdGearModels {
     #include "XtdGearModels_Common.hpp"
     class CfgGlasses {
         // Facewear
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_balaclava.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_bandanna_face.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_gear_combo.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_gloves.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_gloves_tactical.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_kneepad.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_shemagh_neck.hpp"
+        #include "XtdGearModels\3cb_facewear\CfgGlasses\3cb_tactical_glasses.hpp"
     };
 
     class CfgVehicles {
@@ -25,6 +33,8 @@ class XtdGearModels {
         // Vests
 
         // NVG
+        #include "XtdGearModels\3cb_nvg\CfgWeapons\3cb_gloves_nvg.hpp"
+        #include "XtdGearModels\3cb_nvg\CfgWeapons\3cb_gloves_tactical_nvg.hpp"
 
         // Weapons : Primaries
         #include "XtdGearModels\3cb_weapon\CfgWeapons\3cb_auga1.hpp"

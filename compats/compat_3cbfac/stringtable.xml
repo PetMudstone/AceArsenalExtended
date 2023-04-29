@@ -3,7 +3,7 @@
     <Package name="compat_3cbfac">
     // Clothing Names
 
-        // Headgear Names
+    // Headgear
 		<Key ID="STR_ACEAX_compat_3cbfac_6b27m">
             <English>6b27M</English>
         </Key>
@@ -40,7 +40,7 @@
             <English>MK IV</English>
         </Key>
 
-        // Uniform Names
+    // Uniforms
         <Key ID="STR_ACEAX_compat_3cbfac_gorka_r_gen">
             <English>Gorka-R</English>
         </Key>
@@ -61,7 +61,48 @@
             <English>Gorka-R [LSM]</English>
         </Key>
 
-    // Weapon Names
+    // Facewear
+        <Key ID="STR_ACEAX_compat_3cbfac_balaclava">
+            <English>Balaclava</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_ballistic_glasses_label">
+            <English>Bal Glasses</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_ballistic_glasses_desc">
+            <English>Ballistic Glasses</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gear_combo">
+            <English>Gear Combo</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gloves">
+            <English>Gloves</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_kneepads">
+            <English>Kneepads</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_tactical_glasses_label">
+            <English>Tac Glasses</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_tactical_glasses_desc">
+            <English>Tactical Glasses</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_tactical_gloves">
+            <English>Tac Gloves</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_shemagh_neck">
+            <English>Neck Shemagh</English>
+        </Key>
+
+    // Weapons
         <Key ID="STR_ACEAX_compat_3cbfac_augsr_carbine">
             <English>AUG-SR Carbine</English>
         </Key>
@@ -198,6 +239,14 @@
             <English>Desert Polygon Pattern Cover 2</English>
         </Key>
 
+        <Key ID="STR_ACEAX_compat_3cbfac_dwp_label">
+            <English>DWP</English>
+        </Key>
+		
+		<Key ID="STR_ACEAX_compat_3cbfac_dwp_desc">
+            <English>Digital Winter Pattern</English>
+        </Key>
+
         <Key ID="STR_ACEAX_compat_3cbfac_erdl_afg_label">
             <English>ERDL AFG</English>
         </Key>
@@ -246,6 +295,14 @@
             <English>M81 Woodland</English>
         </Key>
 
+        <Key ID="STR_ACEAX_compat_3cbfac_mee_label">
+            <English>MEE</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_mee_desc">
+            <English>Middle Eastern Extremists</English>
+        </Key>
+
         <Key ID="STR_ACEAX_compat_3cbfac_nato_label">
             <English>NATO</English>
         </Key>
@@ -288,6 +345,22 @@
 
         <Key ID="STR_ACEAX_compat_3cbfac_checker_white_desc">
             <English>White Checkerboard</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_klmk_winter_grey_label">
+            <English>KLMK WGY</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_klmk_winter_grey_desc">
+            <English>KLMK Winter Grey</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_klmk_winter_green_label">
+            <English>KLMK WGN</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_klmk_winter_green_desc">
+            <English>KLMK Winter Green</English>
         </Key>
 
         <Key ID="STR_ACEAX_compat_3cbfac_rhode_brush_label">
@@ -359,7 +432,7 @@
         </Key>
 
         <Key ID="STR_ACEAX_compat_3cbfac_hand_white_desc">
-            <English>Hand. White</English>
+            <English>Handprint White</English>
         </Key>
 
         <Key ID="STR_ACEAX_compat_3cbfac_lightning_label">
@@ -456,17 +529,45 @@
 		<Key ID="STR_ACEAX_compat_3cbfac_yes">
             <English>Yes</English>
         </Key>
-		
-		<Key ID="STR_ACEAX_compat_3cbfac_balaclava">
-            <English>Balaclava</English>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_aviators">
+            <English>Aviators</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_both">
+            <English>Both</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_coverage">
+            <English>Coverage</English>
         </Key>
 		
-		<Key ID="STR_ACEAX_compat_3cbfac_goggles">
-            <English>Goggles</English>
+        <Key ID="STR_ACEAX_compat_3cbfac_eyewear">
+            <English>Eyewear</English>
         </Key>
-		
+
+        <Key ID="STR_ACEAX_compat_3cbfac_eyewear_color">
+            <English>Eyewear Color</English>
+        </Key>
+
 		<Key ID="STR_ACEAX_compat_3cbfac_flag">
             <English>Flag</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_gloves_color">
+            <English>Glove Color</English>
+        </Key>
+
+         <Key ID="STR_ACEAX_compat_3cbfac_goggles">
+            <English>Goggles</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_headset">
+            <English>Headset</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_left">
+            <English>Left</English>
         </Key>
 
         <Key ID="STR_ACEAX_compat_3cbfac_marking">
@@ -488,6 +589,18 @@
         <Key ID="STR_ACEAX_compat_3cbfac_netting">
             <English>Netting</English>
         </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_right">
+            <English>Right</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_shades">
+            <English>Shades</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_sport">
+            <English>Sport</English>
+        </Key>
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_enfield_scope">
             <English>Telescopic Sight Fitted</English>
@@ -496,9 +609,17 @@
 		<Key ID="STR_ACEAX_compat_3cbfac_optic">
             <English>Optic</English>
         </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_tactical">
+            <English>Tactical</English>
+        </Key>
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_widegrip">
             <English>Widegrip</English>
+        </Key>
+
+        <Key ID="STR_ACEAX_compat_3cbfac_work">
+            <English>Work</English>
         </Key>
 		
 		<Key ID="STR_ACEAX_compat_3cbfac_sling">
