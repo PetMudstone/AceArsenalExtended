@@ -20,19 +20,19 @@ class rhs_6b13_Flora_6sh92_headset_mapcase {
 class rhs_6b13_Flora_6sh92_radio {
   model = "rhs_6b13";
   camo = "FLRA";
-  loadout = "6sh92_radio";
+  loadout = "6sh92_RADIO";
 };
 
 class rhs_6b13_Flora_6sh92_vog {
   model = "rhs_6b13";
   camo = "FLRA";
-  loadout = "6sh92_vog";
+  loadout = "6sh92_GL";
 };
 
 class rhs_6b13_Flora_crewofficer {
   model = "rhs_6b13";
   camo = "FLRA";
-  loadout = "crew_off";
+  loadout = "CREW_OFC";
 };
 
 //EMR-Summer
@@ -57,19 +57,19 @@ class rhs_6b13_EMR_6sh92_headset_mapcase {
 class rhs_6b13_EMR_6sh92_radio {
   model = "rhs_6b13";
   camo = "EMR_SUM";
-  loadout = "6sh92_radio";
+  loadout = "6sh92_RADIO";
 };
 
 class rhs_6b13_EMR_6sh92_vog {
   model = "rhs_6b13";
   camo = "EMR_SUM";
-  loadout = "6sh92_vog";
+  loadout = "6sh92_GL";
 };
 
 class rhs_6b13_EMR_crewofficer {
   model = "rhs_6b13";
   camo = "EMR_SUM";
-  loadout = "crew_off";
+  loadout = "CREW_OFC";
 };
 
 // VSR
@@ -94,17 +94,17 @@ class rhs_6b13_6sh92_headset_mapcase {
 class rhs_6b13_6sh92_radio {
   model = "rhs_6b13";
   camo = "VSR";
-  loadout = "6sh92_radio";
+  loadout = "6sh92_RADIO";
 };
 
 class rhs_6b13_6sh92_vog {
   model = "rhs_6b13";
   camo = "VSR";
-  loadout = "6sh92_vog";
+  loadout = "6sh92_GL";
 };
 
 class rhs_6b13_crewofficer {
   model = "rhs_6b13";
   camo = "VSR";
-  loadout = "crew_off";
+  loadout = "CREW_OFC";
 };

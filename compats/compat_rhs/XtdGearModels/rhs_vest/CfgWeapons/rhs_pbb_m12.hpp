@@ -1,15 +1,15 @@
 class rhs_pbb_m12
 {
-    options[] = { "camo", "loadout" }; // Always computed, do not edit
+    options[] = { "camo", "loadout" };
     label="PBB M-12";
     class camo
     {
-        values[] = { "MDU10", "MDU10_DES" }; // Always computed, do not edit
+        values[] = { "MDU10", "MDU10_DES" };
         alwaysSelectable=1;
     };
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "None", "Rifleman" }; // Always computed, do not edit
+        values[] = { "EMPTY", "RIFL" };
         alwaysSelectable=1;
     };
 };

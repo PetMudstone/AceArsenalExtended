@@ -1,10 +1,10 @@
 class rhs_otv
 {
-    options[] = { "camo" }; // Always computed, do not edit
+    options[] = { "camo" };
     label="OTV";
     class camo
     {
-        values[] = { "KHK", "MDU02", "TTsKO_CDF_DIGI" }; // Always computed, do not edit
+        values[] = { "KHK", "MDU02", "TTsKO_CDF_DIGI" };
         alwaysSelectable=1;
     };
 };

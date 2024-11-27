@@ -2,9 +2,9 @@ class rhs_6b2
 {
     options[] = { "loadout" };
     label="6B2";
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "None", "6sh92", "chicom", "holster", "lifchik", "rpk", "sniper" };
+        values[] = { "EMPTY", "6sh92", "chicom", "holster", "lifchik", "AR", "DMR" };
         alwaysSelectable=1;
         class 6sh92
         {
@@ -22,14 +22,6 @@ class rhs_6b2
         class lifchik
         {
             label = "Lifchik Chest Rig";
-        };
-        class rpk
-        {
-            label = "RPK";
-        };
-        class sniper
-        {
-            label = "Sniper";
         };
     };
 };

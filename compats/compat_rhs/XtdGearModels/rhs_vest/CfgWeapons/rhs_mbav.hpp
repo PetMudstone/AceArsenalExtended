@@ -1,10 +1,10 @@
 class rhs_mbav
 {
-    options[] = { "loadout" }; // Always computed, do not edit
+    options[] = { "loadout" };
     label="MBAV";
     class loadout
     {
-        values[] = { "None", "Grenadier", "Light", "Machinegunner", "Medic", "Rifleman" }; // Always computed, do not edit
+        values[] = { "EMPTY", "GL", "LIGHT", "MG", "MED", "RIFL" };
         alwaysSelectable=1;
     };
 };

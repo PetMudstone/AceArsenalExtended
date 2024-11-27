@@ -1,24 +1,24 @@
 class rhsusf_mbav {
   model = "rhs_mbav";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 class rhsusf_mbav_grenadier {
   model = "rhs_mbav";
-  loadout = "Grenadier";
+  loadout = "GL";
 };
 class rhsusf_mbav_light {
   model = "rhs_mbav";
-  loadout = "Light";
+  loadout = "LIGHT";
 };
 class rhsusf_mbav_mg {
   model = "rhs_mbav";
-  loadout = "Machinegunner";
+  loadout = "MG";
 };
 class rhsusf_mbav_medic {
   model = "rhs_mbav";
-  loadout = "Medic";
+  loadout = "MED";
 };
 class rhsusf_mbav_rifleman {
   model = "rhs_mbav";
-  loadout = "Rifleman";
+  loadout = "RIFL";
 };

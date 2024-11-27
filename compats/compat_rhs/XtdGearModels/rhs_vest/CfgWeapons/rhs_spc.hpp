@@ -1,10 +1,15 @@
 class rhs_spc
 {
-    options[] = { "loadout" }; // Always computed, do not edit
+    options[] = { "loadout" };
     label="SPC";
     class loadout
     {
-        values[] = { "None", "Corpsman", "Crewman", "IAR", "Light", "Machinegunner", "Marksman", "Patchless", "Radio", "Rifleman", "Sniper", "Squad Lead.", "Team Lead." }; // Always computed, do not edit
+        values[] = { "EMPTY", "MED", "CREW", "AR", "LIGHT", "MG", "DMR", "NO_PATCH", "RADIO", "RIFL", "SNP", "SL", "TL" };
         alwaysSelectable=1;
+
+        class NO_PATCH
+        {
+
+        };
     };
 };

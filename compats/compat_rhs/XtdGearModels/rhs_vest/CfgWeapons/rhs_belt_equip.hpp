@@ -2,9 +2,9 @@ class rhs_belt_equip
 {
     options[] = { "loadout" };
     label="Belt Equipment";
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "6sh46", "6sh46_alt", "auto", "gl", "holster", "rifle", "rifle_alt", "sks", "svd" };
+        values[] = { "6sh46", "6sh46_alt", "AR", "GL", "holster", "RIFL", "RIFL_ALT", "sks", "DMR" };
         alwaysSelectable=1;
         class 6sh46
         {
@@ -14,34 +14,13 @@ class rhs_belt_equip
         {
             label = "6Sh46/Alt";
         };
-        class auto
-        {
-            label = "Autorifl.";
-            description = "Autorifleman";
-        };
-        class gl
-        {
-            label = "Grenadier";
-        };
         class holster
         {
             label = "Holster";
         };
-        class rifle
-        {
-            label = "Rifleman";
-        };
-        class rifle_alt
-        {
-            label = "Rifleman/Alt";
-        };
         class sks
         {
             label = "SKS";
-        };
-        class svd
-        {
-            label = "SVD";
         };
     };
 };

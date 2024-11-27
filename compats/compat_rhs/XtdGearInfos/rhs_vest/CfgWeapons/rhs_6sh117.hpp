@@ -1,31 +1,31 @@
 class rhs_6sh117_mg {
   model = "rhs_6sh117";
-  loadout = "mg";
+  loadout = "MG";
 };
 
 class rhs_6sh117_rifleman {
   model = "rhs_6sh117";
-  loadout = "rifle";
+  loadout = "RIFL";
 };
 
 class rhs_6sh117_ar {
   model = "rhs_6sh117";
-  loadout = "rpk";
+  loadout = "AR";
 };
 
 class rhs_6sh117_nco {
   model = "rhs_6sh117";
-  loadout = "sl";
+  loadout = "SL";
 };
 
 class rhs_6sh117_nco_azart {
   model = "rhs_6sh117";
-  loadout = "sl_azart";
+  loadout = "SL_AZART";
 };
 
 class rhs_6sh117_svd {
   model = "rhs_6sh117";
-  loadout = "svd";
+  loadout = "DMR";
 };
 
 class rhs_6sh117_val {
@@ -35,5 +35,5 @@ class rhs_6sh117_val {
 
 class rhs_6sh117_grn {
   model = "rhs_6sh117";
-  loadout = "vog";
+  loadout = "GL";
 };

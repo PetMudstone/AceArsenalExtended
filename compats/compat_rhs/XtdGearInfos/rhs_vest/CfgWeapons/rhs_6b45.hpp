@@ -1,7 +1,7 @@
 class rhs_6b45 {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 
 class rhs_6b45_holster {
@@ -13,42 +13,42 @@ class rhs_6b45_holster {
 class rhs_6b45_light {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "light";
+  loadout = "LIGHT";
 };
 
 class rhs_6b45_mg {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "mg";
+  loadout = "MG";
 };
 
 class rhs_6b45_off {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "off";
+  loadout = "OFC";
 };
 
 class rhs_6b45_rifleman {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "rifle1";
+  loadout = "RIFL";
 };
 
 class rhs_6b45_rifleman_2 {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "rifle2";
+  loadout = "RIFL_ALT";
 };
 
 class rhs_6b45_grn {
   model = "rhs_6b45";
   camo = "EMR_SUM";
-  loadout = "vog";
+  loadout = "GL";
 };
 
 //The sole desert vest.
 class rhs_6b45_desert {
   model = "rhs_6b45";
   camo = "DESPNK";
-  loadout = "None";
+  loadout = "EMPTY";
 };

@@ -1,52 +1,52 @@
 class rhsusf_spc {
   model = "rhs_spc";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 class rhsusf_spc_corpsman {
   model = "rhs_spc";
-  loadout = "Corpsman";
+  loadout = "MED";
 };
 class rhsusf_spc_crewman {
   model = "rhs_spc";
-  loadout = "Crewman";
+  loadout = "CREW";
 };
-class rhsusf_spc_iar {
+class rhsusf_spc_iar { // The IAR is a Squad Automatic Weapon, so Automatic Rifleman it is.
   model = "rhs_spc";
-  loadout = "IAR";
+  loadout = "AR";
 };
 class rhsusf_spc_light {
   model = "rhs_spc";
-  loadout = "Light";
+  loadout = "LIGHT";
 };
 class rhsusf_spc_mg {
   model = "rhs_spc";
-  loadout = "Machinegunner";
+  loadout = "MG";
 };
 class rhsusf_spc_marksman {
   model = "rhs_spc";
-  loadout = "Marksman";
+  loadout = "DMR";
 };
 class rhsusf_spc_patchless {
   model = "rhs_spc";
-  loadout = "Patchless";
+  loadout = "NO_PATCH";
 };
 class rhsusf_spc_patchless_radio {
   model = "rhs_spc";
-  loadout = "Radio";
+  loadout = "RADIO";
 };
 class rhsusf_spc_rifleman {
   model = "rhs_spc";
-  loadout = "Rifleman";
+  loadout = "RIFL";
 };
 class rhsusf_spc_sniper {
   model = "rhs_spc";
-  loadout = "Sniper";
+  loadout = "SNP";
 };
 class rhsusf_spc_squadleader {
   model = "rhs_spc";
-  loadout = "Squad Lead.";
+  loadout = "SL";
 };
 class rhsusf_spc_teamleader {
   model = "rhs_spc";
-  loadout = "Team Lead.";
+  loadout = "TL";
 };

@@ -1,120 +1,120 @@
 class rhsusf_spcs_ocp {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 class rhsusf_spcs_ucp {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 class rhsusf_spcs_ocp_crewman {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Crewman";
+  loadout = "CREW";
 };
 class rhsusf_spcs_ucp_crewman {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Crewman";
+  loadout = "CREW";
 };
 class rhsusf_spcs_ocp_grenadier {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Grenadier";
+  loadout = "GL";
 };
 class rhsusf_spcs_ucp_grenadier {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Grenadier";
+  loadout = "GL";
 };
 class rhsusf_spcs_ocp_machinegunner {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Machinegunner";
+  loadout = "MG";
 };
 class rhsusf_spcs_ucp_machinegunner {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Machinegunner";
+  loadout = "MG";
 };
 class rhsusf_spcs_ocp_medic {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Medic";
+  loadout = "MED";
 };
 class rhsusf_spcs_ucp_medic {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Medic";
+  loadout = "MED";
 };
 class rhsusf_spcs_ocp_rifleman {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Rifleman";
+  loadout = "RIFL";
 };
 class rhsusf_spcs_ucp_rifleman {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Rifleman";
+  loadout = "RIFL";
 };
 class rhsusf_spcs_ocp_rifleman_alt {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Rifleman Alt";
+  loadout = "RIFL_ALT";
 };
 class rhsusf_spcs_ucp_rifleman_alt {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Rifleman Alt";
+  loadout = "RIFL_ALT";
 };
 class rhsusf_spcs_ocp_saw {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "SAW";
+  loadout = "AR";
 };
 class rhsusf_spcs_ucp_saw {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "SAW";
+  loadout = "AR";
 };
 class rhsusf_spcs_ocp_sniper {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Sniper";
+  loadout = "SNP";
 };
 class rhsusf_spcs_ucp_sniper {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Sniper";
+  loadout = "SNP";
 };
 class rhsusf_spcs_ocp_squadleader {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Squad Lead.";
+  loadout = "SL";
 };
 class rhsusf_spcs_ucp_squadleader {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Squad Lead.";
+  loadout = "SL";
 };
 class rhsusf_spcs_ocp_teamleader {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Team Lead.";
+  loadout = "TL";
 };
 class rhsusf_spcs_ucp_teamleader {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Team Lead.";
+  loadout = "TL";
 };
 class rhsusf_spcs_ocp_teamleader_alt {
   model = "rhs_spcs";
   camo = "OEF_CP";
-  loadout = "Team Lead. Alt";
+  loadout = "TL_ALT";
 };
 class rhsusf_spcs_ucp_teamleader_alt {
   model = "rhs_spcs";
   camo = "UCP";
-  loadout = "Team Lead. Alt";
+  loadout = "TL_ALT";
 };

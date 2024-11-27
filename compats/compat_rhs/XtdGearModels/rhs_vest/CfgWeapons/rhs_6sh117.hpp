@@ -4,43 +4,16 @@ class rhs_6sh117
     label="6Sh117";
     class loadout
     {
-        values[] = { "mg", "rifle", "rpk", "sl", "sl_azart", "svd", "val", "vog" };
+        values[] = { "MGg", "RIFL", "AR", "SL", "SL_AZART", "DMR", "val", "GL" };
         alwaysSelectable=1;
-        class mg
-        {
-            label = "Machinegunner";
-        };
-        class rifle
-        {
-            label = "Rifleman";
-        };
-        class rpk
-        {
-            label = "RPK";
-        };
-        class sl
-        {
-            label = "SL";
-            description = "Squad Leader";
-        };
-        class sl_azart
+        class SL_AZART
         {
             label = "SL/Azart";
             description = "Squad Leader/Azart";
         };
-        class svd
-        {
-            label = "Squad Lead.";
-
-        };
         class val
         {
             label = "Val/VSS";
-
-        };
-        class vog
-        {
-            label = "VOG";
 
         };
     };

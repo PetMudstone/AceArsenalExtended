@@ -9,7 +9,7 @@ class rhs_6b13
     };
     class loadout
     {
-        values[] = { "None", "6sh92", "6sh92_headset_map", "6sh92_radio", "6sh92_vog", "crew_off" };
+        values[] = { "None", "6sh92", "6sh92_headset_map", "6sh92_RADIO", "6sh92_GL", "CREW_OFC" };
         alwaysSelectable=1;
         class 6sh92
         {
@@ -24,14 +24,14 @@ class rhs_6b13
         {
             label = "6Sh92/Radio";
         };
-        class 6sh92_vog
+        class 6sh92_GL
         {
-            label = "6Sh92/VOG";
+            label = "6Sh92/GL";
         };
-        class crew_off
+        class CREW_OFC
         {
-            label = "Crew Off.";
-            description = "Crew Officer";
+            label = "Crew/OFC";
+            description = "Crew/Officer";
         };
     };
 };

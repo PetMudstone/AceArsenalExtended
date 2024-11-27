@@ -20,13 +20,13 @@ class rhs_6sh92_radio {
 class rhs_6sh92_vog {
   model = "rhs_6sh92";
   camo = "FLRA";
-  loadout = "vog";
+  loadout = "GL";
 };
 
 class rhs_6sh92_vog_headset {
   model = "rhs_6sh92";
   camo = "FLRA";
-  loadout = "vog_headset";
+  loadout = "GL_headset";
 };
 
 // EMR-Summer
@@ -51,13 +51,13 @@ class rhs_6sh92_digi_radio {
 class rhs_6sh92_digi_vog {
   model = "rhs_6sh92";
   camo = "EMR_SUM";
-  loadout = "vog";
+  loadout = "GL";
 };
 
 class rhs_6sh92_digi_vog_headset {
   model = "rhs_6sh92";
   camo = "EMR_SUM";
-  loadout = "vog_headset";
+  loadout = "GL_headset";
 };
 
 // VSR
@@ -82,11 +82,11 @@ class rhs_6sh92_vsr_radio {
 class rhs_6sh92_vsr_vog {
   model = "rhs_6sh92";
   camo = "VSR";
-  loadout = "vog";
+  loadout = "GL";
 };
 
 class rhs_6sh92_vsr_vog_headset {
   model = "rhs_6sh92";
   camo = "VSR";
-  loadout = "vog_headset";
+  loadout = "GL_headset";
 };

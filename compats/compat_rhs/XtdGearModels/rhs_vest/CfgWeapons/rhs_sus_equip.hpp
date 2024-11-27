@@ -2,22 +2,18 @@ class rhs_sus_equip
 {
     options[] = { "loadout" };
     label="Suspender Equip.";
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "ak", "rifle", "rifle_light", "sks" };
+        values[] = { "ak", "RIFL", "RIFL_LIGHT", "sks" };
         alwaysSelectable=1;
         class ak
         {
             label = "AK Chest.";
             description = "AK Chestrig";
         };
-        class rifle
+        class RIFL_LIGHT
         {
-            label = "Rifleman";
-        };
-        class rifle_light
-        {
-            label = "Rifleman Li.";
+            label = "RIFL Light";
             description = "Rifleman Light";
         };
         class sks

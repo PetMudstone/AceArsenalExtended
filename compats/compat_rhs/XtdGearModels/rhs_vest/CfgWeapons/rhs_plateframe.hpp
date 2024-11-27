@@ -1,10 +1,10 @@
 class rhs_plateframe
 {
-    options[] = { "loadout" }; // Always computed, do not edit
+    options[] = { "loadout" };
     label="Plateframe";
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "None", "Grenadier", "Light", "Machinegunner", "Marksman", "Medic", "Rifleman", "Team Lead." }; // Always computed, do not edit
+        values[] = { "EMPTY", "GL", "LIGHT", "MG", "DMR", "MED", "RIFL", "TL." };
         alwaysSelectable=1;
     };
 };

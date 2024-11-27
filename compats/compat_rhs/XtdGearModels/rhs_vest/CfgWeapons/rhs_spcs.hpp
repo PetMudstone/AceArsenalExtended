@@ -1,15 +1,27 @@
 class rhs_spcs
 {
-    options[] = { "camo", "loadout" }; // Always computed, do not edit
+    options[] = { "camo", "loadout" };
     label="SPCS";
     class camo
     {
-        values[] = { "OEF_CP", "UCP" }; // Always computed, do not edit
+        values[] = { "OEF_CP", "UCP" };
         alwaysSelectable=1;
     };
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "None", "Crewman", "Grenadier", "Machinegunner", "Medic", "Rifleman Alt", "Rifleman", "SAW", "Sniper", "Squad Lead.", "Team Lead.", "Team Lead. Alt" }; // Always computed, do not edit
+        values[] = { "EMPTY", "CREW", "GL", "MG", "MED", "RIFL_ALT", "RIFL", "AR", "SNP", "SL", "TL", "TL_ALT" };
         alwaysSelectable=1;
+
+        class RIFL_ALT
+        {
+            label = "RIFL Alt";
+            description = "Rifleman Alt";
+        };
+
+        class TL_ALT
+        {
+            label = "TL Alt";
+            description = "Team Leader Alt";
+        };
     };
 };

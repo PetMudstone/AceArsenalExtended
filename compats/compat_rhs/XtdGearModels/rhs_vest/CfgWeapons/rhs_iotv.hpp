@@ -1,15 +1,15 @@
 class rhs_iotv
 {
-    options[] = { "camo", "loadout" }; // Always computed, do not edit
+    options[] = { "camo", "loadout" };
     label="IOTV";
     class camo
     {
-        values[] = { "OEF_CP", "UCP" }; // Always computed, do not edit
+        values[] = { "OEF_CP", "UCP" };
         alwaysSelectable=1;
     };
     class loadout
     {
-        values[] = { "None", "Grenadier", "Medic", "Repair", "Rifleman", "SAW", "Squad Lead.", "Team Lead." }; // Always computed, do not edit
+        values[] = { "EMPTY", "GL", "MED", "ENGI", "RIFL", "AR", "SL", "TL" };
         alwaysSelectable=1;
     };
 };

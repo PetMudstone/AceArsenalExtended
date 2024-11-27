@@ -1,32 +1,32 @@
 class rhsusf_plateframe_sapi {
   model = "rhs_plateframe";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 class rhsusf_plateframe_grenadier {
   model = "rhs_plateframe";
-  loadout = "Grenadier";
+  loadout = "GL";
 };
 class rhsusf_plateframe_light {
   model = "rhs_plateframe";
-  loadout = "Light";
+  loadout = "LIGHT";
 };
 class rhsusf_plateframe_machinegunner {
   model = "rhs_plateframe";
-  loadout = "Machinegunner";
+  loadout = "MG";
 };
 class rhsusf_plateframe_marksman {
   model = "rhs_plateframe";
-  loadout = "Marksman";
+  loadout = "DMR";
 };
 class rhsusf_plateframe_medic {
   model = "rhs_plateframe";
-  loadout = "Medic";
+  loadout = "MED";
 };
 class rhsusf_plateframe_rifleman {
   model = "rhs_plateframe";
-  loadout = "Rifleman";
+  loadout = "RIFL";
 };
 class rhsusf_plateframe_teamleader {
   model = "rhs_plateframe";
-  loadout = "Team Lead.";
+  loadout = "TL.";
 };

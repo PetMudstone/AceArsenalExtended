@@ -1,15 +1,21 @@
 class rhs_pbb_m99t
 {
-    options[] = { "camo", "loadout" }; // Always computed, do not edit
+    options[] = { "camo", "loadout" };
     label="PBB M-99T";
     class camo
     {
-        values[] = { "MDU02", "MDU10", "WDL_SAF" }; // Always computed, do not edit
+        values[] = { "MDU02", "MDU10", "WDL_SAF" };
         alwaysSelectable=1;
     };
     class loadout
     {
-        values[] = { "None", "Radio", "Rifleman", "Rifl./Radio" }; // Always computed, do not edit
+        values[] = { "EMPTY", "RADIO", "RIFL", "RIFL_RADIO" };
         alwaysSelectable=1;
+
+        class RIFL_RADIO
+        {
+            label = "RIFL/Radio";
+            description = "Rifleman/Radio";
+        };
     };
 };

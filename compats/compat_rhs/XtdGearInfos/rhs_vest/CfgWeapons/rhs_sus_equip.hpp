@@ -5,12 +5,12 @@ class rhs_suspender_AK8_chestrig {
 
 class rhs_suspender_AK {
   model = "rhs_sus_equip";
-  loadout = "rifle";
+  loadout = "RIFL";
 };
 
 class rhs_suspender_AK4 {
   model = "rhs_sus_equip";
-  loadout = "rifle_light";
+  loadout = "RIFL_LIGHT";
 };
 
 class rhs_suspender_SKS {

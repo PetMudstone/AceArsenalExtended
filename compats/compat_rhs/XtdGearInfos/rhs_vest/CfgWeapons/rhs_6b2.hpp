@@ -25,11 +25,11 @@ class rhs_6b2_lifchik {
 
 class rhs_6b2_rpk {
   model = "rhs_6b2";
-  loadout = "rpk";
+  loadout = "AR";
 };
 
 class rhs_6b2_SVD {
   model = "rhs_6b2";
-  loadout = "sniper";
+  loadout = "DMR";
 };
 

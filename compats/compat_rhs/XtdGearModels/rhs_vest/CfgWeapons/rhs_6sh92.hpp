@@ -12,9 +12,9 @@ class rhs_6sh92
             image = "z\aceax\compats\RHS\data\camo\vsr_6sh92.paa";
 	    };
     };
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "None", "headset", "radio", "vog", "vog_headset" };
+        values[] = { "None", "headset", "radio", "GL", "GL_headset" };
         alwaysSelectable=1;
         class headset
         {
@@ -24,14 +24,10 @@ class rhs_6sh92
         {
             label = "Radio";
         };
-        class vog
+        class GL_headset
         {
-            label = "VOG";
-        };
-        class vog_headset
-        {
-            label = "VOG/Hdst.";
-            description = "VOG/Headset";
+            label = "GL/Hdst.";
+            description = "Grenadier/Headset";
         };
     };
 };

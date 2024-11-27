@@ -10,17 +10,12 @@ class rhs_belt_AK4_back {
 
 class rhs_belt_RPK {
   model = "rhs_belt_equip";
-  loadout = "auto";
+  loadout = "AR";
 };
 
 class rhs_belt_AK_GL {
   model = "rhs_belt_equip";
-  loadout = "gl";
-};
-
-class rhs_belt_holster {
-  model = "rhs_belt_equip";
-  loadout = "holster";
+  loadout = "GL";
 };
 
 class rhs_belt_holster {
@@ -30,12 +25,12 @@ class rhs_belt_holster {
 
 class rhs_belt_AK {
   model = "rhs_belt_equip";
-  loadout = "rifle";
+  loadout = "RIFL";
 };
 
 class rhs_belt_AK_back {
   model = "rhs_belt_equip";
-  loadout = "rifle_alt";
+  loadout = "RIFL_ALT";
 };
 
 class rhs_belt_sks {
@@ -45,5 +40,5 @@ class rhs_belt_sks {
 
 class rhs_belt_SVD {
   model = "rhs_belt_equip";
-  loadout = "svd";
+  loadout = "DMR";
 };

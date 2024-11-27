@@ -8,35 +8,16 @@ class rhs_6b45
     };
     class loadout
     {
-        values[] = { "None", "holster", "light", "mg", "off", "rifle1", "rifle2", "vog" };
+        values[] = { "EMPTY", "holster", "LIGHT", "MG", "OFC", "RIFL", "RIFL_ALT", "GL" };
         alwaysSelectable=1;
         class holster
         {
             label = "Holster";
         };
-        class light
+        class RIFL_ALT
         {
-            label = "Light";
-        };
-        class mg
-        {
-            label = "Machinegunner";
-        };
-        class off
-        {
-            label = "Officer";
-        };
-        class rifle1
-        {
-            label = "Rifleman 1";
-        };
-        class rifle2
-        {
-            label = "Rifleman 2";
-        };
-        class vog
-        {
-            label = "VOG";
+            label = "RIFL Alt";
+            description = "Rifleman Alt";
         };
     };
 };

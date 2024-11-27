@@ -2,7 +2,7 @@
 class rhs_6b23 {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "None";
+  loadout = "EMPTY";
 	collar = "Standard";
 };
 class rhs_6b23_6sh116_flora {
@@ -14,7 +14,7 @@ class rhs_6b23_6sh116_flora {
 	class rhs_6b23_6sh116_vog_flora {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "6Sh116/VOG";
+  loadout = "6Sh116_GL";
 	collar = "Standard";
 };
 class rhs_6b23_6sh92 {
@@ -38,25 +38,25 @@ class rhs_6b23_6sh92_headset_mapcase {
 class rhs_6b23_6sh92_radio {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "6Sh92/Radio";
+  loadout = "6Sh92_RADIO";
 	collar = "Standard";
 };
 class rhs_6b23_6sh92_vog {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "6Sh92/VOG";
+  loadout = "6Sh92_GL";
 	collar = "Standard";
 };
 class rhs_6b23_6sh92_vog_headset {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "6Sh92/VOG/Hdst.";
+  loadout = "6Sh92_GL_Hdst.";
 	collar = "Standard";
 };
 class rhs_6b23_crewofficer {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "Off.";
+  loadout = "OFC";
 	collar = "Standard";
 };
 class rhs_6b23_crew {
@@ -68,25 +68,25 @@ class rhs_6b23_crew {
 class rhs_6b23_engineer {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };
 class rhs_6b23_medic {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "Medic";
+  loadout = "MED";
 	collar = "Standard";
 };
 class rhs_6b23_rifleman {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhs_6b23_sniper {
   model = "rhs_6b23";
   camo = "FLRA";
-  loadout = "Snip.";
+  loadout = "SNP";
 	collar = "Standard";
 };
 class rhs_6b23_vydra_3m {
@@ -100,7 +100,7 @@ class rhs_6b23_vydra_3m {
 class rhs_6b23_digi {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "None";
+  loadout = "EMPTY";
 	collar = "Standard";
 };
 class rhs_6b23_6sh116 {
@@ -112,7 +112,7 @@ class rhs_6b23_6sh116 {
 class rhs_6b23_6sh116_vog {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh116/VOG";
+  loadout = "6Sh116_GL";
 	collar = "Standard";
 };
 class rhs_6b23_digi_6sh92 {
@@ -136,25 +136,25 @@ class rhs_6b23_digi_6sh92_headset_mapcase {
 class rhs_6b23_digi_6sh92_radio {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh92/Radio";
+  loadout = "6Sh92_RADIO";
 	collar = "Standard";
 };
 class rhs_6b23_digi_6sh92_vog {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh92/VOG";
+  loadout = "6Sh92_GL";
 	collar = "Standard";
 };
 class rhs_6b23_digi_6sh92_vog_headset {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh92/VOG/Hdst.";
+  loadout = "6Sh92_GL_Hdst.";
 	collar = "Standard";
 };
 class rhs_6b23_digi_crewofficer {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "Off.";
+  loadout = "OFC";
 	collar = "Standard";
 };
 class rhs_6b23_digi_crew {
@@ -166,25 +166,25 @@ class rhs_6b23_digi_crew {
 class rhs_6b23_digi_engineer {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };
 class rhs_6b23_digi_medic {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "Medic";
+  loadout = "MED";
 	collar = "Standard";
 };
 class rhs_6b23_digi_rifleman {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhs_6b23_digi_sniper {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "Snip.";
+  loadout = "SNP";
 	collar = "Standard";
 };
 class rhs_6b23_digi_vydra_3m {
@@ -209,19 +209,19 @@ class rhs_6b23_digi_6sh92_headset_spetsnaz {
 class rhs_6b23_digi_6sh92_Spetsnaz {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh92/Radio";
+  loadout = "6Sh92_RADIO";
 	collar = "Spetsnaz";
 };
 class rhs_6b23_digi_6sh92_Vog_Spetsnaz {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh92/VOG/Radio";
+  loadout = "6Sh92_GL_RADIO";
 	collar = "Spetsnaz";
 };
 class rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz {
   model = "rhs_6b23";
   camo = "EMR_SUM";
-  loadout = "6Sh92/VOG/Radio"; //This is the only item that has this combination.
+  loadout = "6Sh92_GL_RADIO"; //This is the only item that has this combination.
 	collar = "Spetsnaz";
 };
 
@@ -229,7 +229,7 @@ class rhs_6b23_digi_6sh92_Vog_Radio_Spetsnaz {
 class rhs_6b23_ML {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "None";
+  loadout = "EMPTY";
 	collar = "Standard";
 };
 class rhs_6b23_ML_6sh116_flora {
@@ -241,7 +241,7 @@ class rhs_6b23_ML_6sh116_flora {
 class rhs_6b23_ML_6sh116_vog_flora {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "6Sh116/VOG";
+  loadout = "6Sh116_GL";
 	collar = "Standard";
 };
 class rhs_6b23_ML_6sh92 {
@@ -265,25 +265,25 @@ class rhs_6b23_ML_6sh92_headset_mapcase {
 class rhs_6b23_ML_6sh92_radio {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "6Sh92/Radio";
+  loadout = "6Sh92_RADIO";
 	collar = "Standard";
 };
 class rhs_6b23_ML_6sh92_vog {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "6Sh92/VOG";
+  loadout = "6Sh92_GL";
 	collar = "Standard";
 };
 class rhs_6b23_ML_6sh92_vog_headset {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "6Sh92/VOG/Hdst.";
+  loadout = "6Sh92_GL_Hdst.";
 	collar = "Standard";
 };
 class rhs_6b23_ML_crewofficer {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "Off.";
+  loadout = "OFC";
 	collar = "Standard";
 };
 class rhs_6b23_ML_crew {
@@ -295,25 +295,25 @@ class rhs_6b23_ML_crew {
 class rhs_6b23_ML_engineer {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };
 class rhs_6b23_ML_medic {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "Medic";
+  loadout = "MED";
 	collar = "Standard";
 };
 class rhs_6b23_ML_rifleman {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhs_6b23_ML_sniper {
   model = "rhs_6b23";
   camo = "MTNLES";
-  loadout = "Snip.";
+  loadout = "SNP";
 	collar = "Standard";
 };
 class rhs_6b23_ML_vydra_3m {
@@ -333,7 +333,7 @@ class rhs_6b23_6sh116_od {
 class rhs_6b23_6sh116_vog_od {
   model = "rhs_6b23";
   camo = "OLI";
-  loadout = "6Sh116/VOG";
+  loadout = "6Sh116_GL";
 	collar = "Standard";
 };
 
@@ -347,7 +347,7 @@ class rhs_6b23_6sh116_mixed {
 class rhs_6b23_6sh116_vog_mixed {
   model = "rhs_6b23";
   camo = "FLRA_EMR";
-  loadout = "6Sh116/VOG";
+  loadout = "6Sh116_GL";
 	collar = "Standard";
 };
 
@@ -355,7 +355,7 @@ class rhs_6b23_6sh116_vog_mixed {
 class rhsgref_6b23_khaki_medic {
   model = "rhs_6b23";
   camo = "KHK";
-  loadout = "Medic";
+  loadout = "MED";
 	collar = "Standard";
 };
 class rhsgref_6b23_khaki_nco {
@@ -367,25 +367,25 @@ class rhsgref_6b23_khaki_nco {
 class rhsgref_6b23_khaki_officer {
   model = "rhs_6b23";
   camo = "KHK";
-  loadout = "Off.";
+  loadout = "OFC";
 	collar = "Standard";
 };
 class rhsgref_6b23_khaki_rifleman {
   model = "rhs_6b23";
   camo = "KHK";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhsgref_6b23_khaki_sniper {
   model = "rhs_6b23";
   camo = "KHK";
-  loadout = "Snip.";
+  loadout = "SNP";
 	collar = "Standard";
 };
 class rhsgref_6b23_khaki {
   model = "rhs_6b23";
   camo = "KHK";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };
 
@@ -393,7 +393,7 @@ class rhsgref_6b23_khaki {
 class rhsgref_6b23_ttsko_digi_medic {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_DIGI";
-  loadout = "Medic";
+  loadout = "MED";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_digi_nco {
@@ -405,25 +405,25 @@ class rhsgref_6b23_ttsko_digi_nco {
 class rhsgref_6b23_ttsko_digi_officer {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_DIGI";
-  loadout = "Off.";
+  loadout = "OFC";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_digi_rifleman {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_DIGI";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_digi_sniper {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_DIGI";
-  loadout = "Snip.";
+  loadout = "SNP";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_digi {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_DIGI";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };
 
@@ -431,13 +431,13 @@ class rhsgref_6b23_ttsko_digi {
 class rhsgref_6b23_ttsko_forest_rifleman {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_FRS";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_forest {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_FRS";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };
 
@@ -445,7 +445,7 @@ class rhsgref_6b23_ttsko_forest {
 class rhsgref_6b23_ttsko_mountain_medic {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_MTN";
-  loadout = "Medic";
+  loadout = "MED";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_mountain_nco {
@@ -457,24 +457,24 @@ class rhsgref_6b23_ttsko_mountain_nco {
 class rhsgref_6b23_ttsko_mountain_officer {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_MTN";
-  loadout = "Off.";
+  loadout = "OFC";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_mountain_rifleman {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_MTN";
-  loadout = "Rifl.";
+  loadout = "RIFL";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_mountain_sniper {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_MTN";
-  loadout = "Snip.";
+  loadout = "SNP";
 	collar = "Standard";
 };
 class rhsgref_6b23_ttsko_mountain {
   model = "rhs_6b23";
   camo = "TTsKO_CDF_MTN";
-  loadout = "Engi.";
+  loadout = "ENGI";
 	collar = "Standard";
 };

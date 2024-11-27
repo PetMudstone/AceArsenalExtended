@@ -1,6 +1,6 @@
 class rhs_6b3 {
   model = "rhs_6b3";
-  loadout = "None";
+  loadout = "EMPTY";
 };
 
 class rhs_6b3_holster {
@@ -10,7 +10,7 @@ class rhs_6b3_holster {
 
 class rhs_6b3_off {
   model = "rhs_6b3";
-  loadout = "off";
+  loadout = "OFC";
 };
 
 class rhs_6b3_R148 {
@@ -20,30 +20,30 @@ class rhs_6b3_R148 {
 
 class rhs_6b3_AK {
   model = "rhs_6b3";
-  loadout = "rifle1";
+  loadout = "RIFL";
 };
 
 class rhs_6b3_AK_2 {
   model = "rhs_6b3";
-  loadout = "rifle2";
+  loadout = "RIFL_2";
 };
 
 class rhs_6b3_AK_3 {
   model = "rhs_6b3";
-  loadout = "rifle3";
+  loadout = "RIFL_3";
 };
 
 class rhs_6b3_RPK {
   model = "rhs_6b3";
-  loadout = "rpk";
+  loadout = "AR";
 };
 
 class rhs_6b3_VOG {
   model = "rhs_6b3";
-  loadout = "vog1";
+  loadout = "GL";
 };
 
 class rhs_6b3_VOG_2 {
   model = "rhs_6b3";
-  loadout = "vog2";
+  loadout = "GL_2";
 };

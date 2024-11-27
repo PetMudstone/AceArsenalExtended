@@ -2,45 +2,32 @@ class rhs_6b3
 {
     options[] = { "loadout" };
     label="6B3";
-    class loadout
+    class loadout : rhs_loadout
     {
-        values[] = { "None", "holster", "off", "r148", "rifle1", "rifle2", "rifle3", "rpk", "vog1", "vog2" };
+        values[] = { "EMPTY", "holster", "OFC", "r148", "RIFL", "RIFL_2", "RIFL_3", "AR", "GL", "GL_2" };
         alwaysSelectable=1;
         class holster
         {
             label = "Holster";
         };
-        class off
-        {
-            label = "Officer";
-        };
         class r148
         {
             label = "R-148";
         };
-        class rifle1
+        class RIFL_2
         {
-            label = "Rifleman 1";
-        };
-        class rifle2
+		    label = "RIFL 2";
+		    description = "Rifleman 2";
+	    };
+        class RIFL_3
         {
-            label = "Rifleman 2";
-        };
-        class rifle3
+		    label = "RIFL 3";
+		    description = "Rifleman 3";
+	    };
+        class GL_2
         {
-            label = "Rifleman 3";
-        };
-        class rpk
-        {
-            label = "RPK";
-        };
-        class vog1
-        {
-            label = "VOG 1";
-        };
-        class vog2
-        {
-            label = "VOG 2";
+            label = "GL 2";
+            description = "Grenadier 2";
         };
     };
 };
