@@ -37,7 +37,7 @@ class Fatigues_lxWS
 		values[] = {"Soldier","Soldier Rolled","Officer"};
 		changeingame = 0;
 		alwaysSelectable = 1;
-	}
+	};
 };
 
 class Commoner_lxWS

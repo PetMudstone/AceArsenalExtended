@@ -53,7 +53,8 @@ class Galat_lxWS
 		changeingame = 0;
 		alwaysSelectable = 1;
 	};
-}
+};
+
 class GLX_lxWS
 {
 	options[] = {"colour"};

@@ -49,7 +49,7 @@ class AP5_lxWS
 	options[]={"faction"};
 	class faction
 	{
-		label="Faction"
+		label="Faction";
 		values[]={"AAF","CSAT","NATO","ION"};
 		alwaysSelectable=1;
 	};

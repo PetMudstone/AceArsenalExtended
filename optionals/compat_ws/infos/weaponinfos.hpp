@@ -37,7 +37,7 @@ class arifle_SLR_D_lxWS
 class arifle_SLR_V_camo_lxWS
 {
 	model="SLR_lxWS";
-	colour="Jungle"
+	colour="Jungle";
 	attachment="None";
 };
 class arifle_SLR_GL_lxWS

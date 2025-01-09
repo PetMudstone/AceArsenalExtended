@@ -104,7 +104,7 @@ class lxWS_H_PASGT_basic_UN_F
 };
 class lxWS_H_PASGT_goggles_UN_F
 {
-	model="acebi_basic_helm"
+	model="acebi_basic_helm";
 	camo="UNA";
 	goggles="Yes";
 };
@@ -145,7 +145,7 @@ class lxWS_H_Beret_Colonel
 	model="acebi_beret_faction";
 	faction="UNA";
 	rank="Colonel";
-}
+};
 
 // Boonie
 class lxWS_H_Booniehat_desert
@@ -187,7 +187,7 @@ class lxWS_H_Tank_tan_F
 class lxWS_H_MilCap_desert
 {
 	model="acebi_mil_cap";
-	camo="Desert"
+	camo="Desert";
 };
 
 // Old Helmet

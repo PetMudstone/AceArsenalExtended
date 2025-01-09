@@ -31,7 +31,7 @@ class XtdGearModels
         {
             label = "Orange";
             image = "#(rgb,8,8,3)color(1,0.6,0,1)";
-        }
+        };
     };
     class CfgWeapons
     {

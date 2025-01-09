@@ -40,7 +40,7 @@ class GA_lite_lxWS
 		values[] = {"AAF","UNA"};
 		alwaysSelectable=1;
 	};
-}
+};
 
 class GA_rig_lxWS
 {
