@@ -13,6 +13,11 @@ class cup_m23_pioneer {
 			image = "#(rgb,8,8,3)color(0.53,0.43,0.30,1)";
 		};
 
+		class GRN
+		{
+			image = "#(rgb,8,8,3)color(0.37,0.35,0.23,1)";
+		};
+
 		class TAKI_BRUSH
         {
             label = "Taki Brush";

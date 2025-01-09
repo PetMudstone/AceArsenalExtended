@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACEAX">
+    <Package name="compat_cfr">
+        <Key ID="STR_ACEAX_compat_cfr_6B3_Label">
+            <English>6B3</English>
+            <Spanish>6B3</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Accessory_Label">
+            <English>Accessory</English>
+            <Spanish>Accesorio</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Description">
+            <English>But-Arid</English>
+            <Spanish>Butan Árido</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Label">
+            <English>But-Arid</English>
+            <Spanish>But-Árido</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Forest_Description">
+            <English>Butan Forest</English>
+            <Spanish>Butan Bosque</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Forest_Label">
+            <English>But-Frs</English>
+            <Spanish>But-Bsq</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Mountain_Description">
+            <English>Butan Mountain</English>
+            <Spanish>Butan Montaña</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Mountain_Label">
+            <English>But-Mtn</English>
+            <Spanish>But-Mtn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Winter_Description">
+            <English>Butan Winter</English>
+            <Spanish>Butan Invierno</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Winter_Label">
+            <English>But-Wntr</English>
+            <Spanish>But-Ivrn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CDF_Combat_Fatigues_Label">
+            <English>CDF Combat Fatigues</English>
+            <Spanish>CDF Fatigas de Combate</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CDF_Fatigues_Label">
+            <English>CDF Fatigues</English>
+            <Spanish>CDF Fatigas</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CDF_Green_Label">
+            <English>CDF Green</English>
+            <Spanish>CDF Verde</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Coat_Alternate_Description">
+            <English>Coat [Alternate]</English>
+            <Spanish>Abrigo [Alternativo]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Coat_Alternate_Label">
+            <English>Coat Alt</English>
+            <Spanish>Abrigo Alt</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Coat_Label">
+            <English>Coat</English>
+            <Spanish>Abrigo</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Combat_Helmet_CDF_Label">
+            <English>Combat Helmet [CDF]</English>
+            <Spanish>Casco de Combate [CDF]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Duna_Description">
+            <English>Chernarusian "Duna" Arid Digital</English>
+            <Spanish>Chernaruso "Duna" Digital Árido</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Duna_Label">
+            <English>Duna</English>
+            <Spanish>Duna</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Enhanced_Label">
+            <English>Enhanced</English>
+            <Spanish>Mejorado</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Faceshield_Description">
+            <English>Faceshield</English>
+            <Spanish>Protector Facial</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Faceshield_Label">
+            <English>Faceshield</English>
+            <Spanish>Prc Facial</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Gloves">
+            <English>Gloves</English>
+            <Spanish>Guantes</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Lovec_Description">
+            <English>Chernarusian "Lovec" Temperate Digital</English>
+            <Spanish>Chernaruso "Lovec" Digital Templado</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Lovec_Label">
+            <English>Lovec</English>
+            <Spanish>Lovec</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M23_Pioneer_Label">
+            <English>M23 Pioneer</English>
+            <Spanish>M23 Pionero</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_No">
+            <English>No</English>
+            <Spanish>No</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_None_Label">
+            <English>None</English>
+            <Spanish>Ninguno</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Scrim_Label">
+            <English>Scrim</English>
+            <Spanish>Malla</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Shapebreaker_Description">
+            <English>Shapebreaker</English>
+            <Spanish>Rompedor de Formas</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Shapebreaker_Label">
+            <English>Shpbrkr</English>
+            <Spanish>RmpFrm</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Standard_Label">
+            <English>Standard</English>
+            <Spanish>Estándar</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Sweater_Black_Label">
+            <English>Sweater B</English>
+            <Spanish>Suéter B</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Sweater_Green_Description">
+            <English>Green Sweater</English>
+            <Spanish>Suéter Verde</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Sweater_Green_Description">
+            <English>Black Sweater</English>
+            <Spanish>Suéter Negro</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Sweater_Green_Label">
+            <English>Sweater G</English>
+            <Spanish>Suéter G</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_TShirt_Label">
+            <English>T-Shirt</English>
+            <Spanish>Camiseta</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Yes">
+            <English>Yes</English>
+            <Spanish>Sí</Spanish>
+        </Key>
+    </Package>
+</Project>
