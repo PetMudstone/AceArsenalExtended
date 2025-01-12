@@ -17,3 +17,8 @@ class CFR_H_CDF_FieldCap_Snw {
 	model = "cfr_field_cap_cdf";
 	camo = "CFR_BUT_WNTR";
 };
+
+class CFR_H_GM_FieldCap_Urb {
+	model = "cfr_field_cap_cdf";
+	camo = "CFR_BUT_URB";
+};

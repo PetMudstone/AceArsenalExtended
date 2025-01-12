@@ -25,6 +25,12 @@ class CamoBase
 		description = CSTRING(Butan_Winter_Description);
 		image = QPATHTOF(data\camo\but_wntr.paa);
 	};
+	class CFR_BUT_URB // Used by the Chernarusian MVD.
+	{
+		label = CSTRING(Butan_Urban_Label);
+		description = CSTRING(Butan_Urban_Description);
+		image = QPATHTOF(data\camo\but_urb.paa);
+	};
 	class CFR_DUNA
 	{
 		label = CSTRING(Duna_Label);
@@ -39,6 +45,24 @@ class CamoBase
 	};
 };
 
+class cfr_branch // Used to disambiguate between CDF and MVD where necesary.
+{
+	label = CSTRING(Branch_Label);
+	changeingame = 0;
+	values[] = {};
+
+	class CDF // Chernarusian Defence Forces
+	{
+		label = CSTRING(CDF_Label);
+		description = CSTRING(CDF_Description);
+	};
+
+	class MVD // Ministry of Internal Affairs (I think). See relevant stringtable.xml key for more details.
+	{
+		label = CSTRING(MVD_Label);
+		description = CSTRING(MVD_Description);
+	};
+};
 
 class cfr_loadout // Based on the loadout common option found in the CUP patch.
 {

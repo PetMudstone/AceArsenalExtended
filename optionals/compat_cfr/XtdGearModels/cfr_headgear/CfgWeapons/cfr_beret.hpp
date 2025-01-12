@@ -1,14 +1,21 @@
 class cfr_beret {
 	label = "Beret [CDF]";
 	author = "Nata";
-	options[]= { "camo" };
+	options[]= { "camo", "branch" };
 	class camo
 	{
-		values[] = {"OLI", "CFR_BUT_ARID", "CFR_BUT_FRS", "CFR_BUT_MTN", "CFR_BUT_WNTR" };
+		alwaysSelectable = 1;
+		values[] = {"PLAIN", "CFR_BUT_ARID", "CFR_BUT_FRS", "CFR_BUT_MTN", "CFR_BUT_WNTR", "CFR_BUT_URB" };
 
-		class OLI
+		class PLAIN
 		{
-			image = "#(rgb,8,8,3)color(0.49,0.47,0.22,1)";
+			label = CSTRING(Plain_Label);
 		};
+	};
+
+	class branch : cfr_branch
+	{
+		alwaysSelectable = 1;
+		values[] = { "CDF", "MVD" };
 	};
 };

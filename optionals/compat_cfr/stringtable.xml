@@ -9,6 +9,10 @@
             <English>Accessory</English>
             <Spanish>Accesorio</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Branch_Label">
+            <English>Branch</English>
+            <Spanish>Rama</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Description">
             <English>But-Arid</English>
             <Spanish>Butan Árido</Spanish>
@@ -33,6 +37,14 @@
             <English>But-Mtn</English>
             <Spanish>But-Mtn</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Urban_Description">
+            <English>Butan Urban</English>
+            <Spanish>Butan Urbano</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Butan_Urban_Label">
+            <English>But-Urb</English>
+            <Spanish>But-Urb</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Winter_Description">
             <English>Butan Winter</English>
             <Spanish>Butan Invierno</Spanish>
@@ -45,6 +57,10 @@
             <English>CDF Combat Fatigues</English>
             <Spanish>CDF Fatigas de Combate</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CDF_Description">
+            <English>Chernarussian Defence Forces</English>
+            <Spanish>Chernarussian Defence Forces [Fuerzas de Defensa Chernarusas]</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_CDF_Fatigues_Label">
             <English>CDF Fatigues</English>
             <Spanish>CDF Fatigas</Spanish>
@@ -52,6 +68,10 @@
         <Key ID="STR_ACEAX_compat_cfr_CDF_Green_Label">
             <English>CDF Green</English>
             <Spanish>CDF Verde</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CDF_Label">
+            <English>CDF</English>
+            <Spanish>CDF</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Coat_Alternate_Description">
             <English>Coat [Alternate]</English>
@@ -105,6 +125,14 @@
             <English>M23 Pioneer</English>
             <Spanish>M23 Pionero</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_MVD_Description">
+            <English>Ministerstvo Vnutrennikh Del [Ministry of Internal Affairs]</English>
+            <Spanish>Ministerstvo Vnutrennikh Del [Ministerio de Asuntos Interiores]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_MVD_Label">
+            <English>MVD</English>
+            <Spanish>MVD</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_No">
             <English>No</English>
             <Spanish>No</Spanish>
@@ -112,6 +140,10 @@
         <Key ID="STR_ACEAX_compat_cfr_None_Label">
             <English>None</English>
             <Spanish>Ninguno</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Plain_Label">
+            <English>Plain</English>
+            <Spanish>Sencilla</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Scrim_Label">
             <English>Scrim</English>

@@ -148,7 +148,7 @@
 		nvg_mount = "yes";
 	};
 
-// Butan
+// Butan Winter
 	class CFR_H_CDF_PASGT_Snw {
 		model = "cup_pasgt";
 		camo = "CFR_BUT_WNTR";
@@ -194,6 +194,56 @@
 	class CFR_H_CDF_PASGT_Nvg_Snw_Gg_Cb {
 		model = "cup_pasgt";
 		camo = "CFR_BUT_WNTR";
+		goggles = "yes_cover_back";
+		nvg_mount = "yes";
+	};
+
+// Butan Urban (for MVD)
+		class CFR_H_GM_PASGT_Urb {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
+		goggles = "no";
+		nvg_mount = "no";
+	};
+
+	class CFR_H_GM_PASGT_Urb_Gg {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
+		goggles = "yes";
+		nvg_mount = "no";
+	};
+
+	class CFR_H_GM_PASGT_Urb_Cf {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
+		goggles = "yes_cover";
+		nvg_mount = "no";
+	};
+
+	class CFR_H_GM_PASGT_Nvg_Urb {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
+		goggles = "no";
+		nvg_mount = "yes";
+	};
+
+	class CFR_H_GM_PASGT_Nvg_Urb_Gg {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
+		goggles = "yes";
+		nvg_mount = "yes";
+	};
+
+	class CFR_H_GM_PASGT_Nvg_Urb_Cf {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
+		goggles = "yes_cover";
+		nvg_mount = "yes";
+	};
+
+	class CFR_H_GM_PASGT_Nvg_Urb_Gg_Cb {
+		model = "cup_pasgt";
+		camo = "CFR_BUT_URB";
 		goggles = "yes_cover_back";
 		nvg_mount = "yes";
 	};
