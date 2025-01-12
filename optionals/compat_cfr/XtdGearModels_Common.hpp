@@ -43,6 +43,12 @@ class CamoBase
 		description = CSTRING(Lovec_Description);
 		image = QPATHTOF(data\camo\digi_lovec.paa);
 	};
+	class CFR_UN // For CDF equipment in United Nations colors.
+	{
+		label = CSTRING(UN_Label);
+		description = CSTRING(UN_Description);
+		image = "#(rgb,8,8,3)color(0.21,0.44,0.66,1)";
+	};
 };
 
 class cfr_branch // Used to disambiguate between CDF and MVD where necesary.

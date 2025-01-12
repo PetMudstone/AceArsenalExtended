@@ -73,3 +73,22 @@
 		camo = "CFR_BUT_WNTR";
 		loadout = "RIFL";
 	};
+
+// United Nations
+	class CFR_V_UN_Interceptor_Base {
+		model = "cup_interceptor";
+		camo = "CFR_UN";
+		loadout = "STD";
+	};
+
+	class CFR_V_UN_Interceptor_Grenadier {
+		model = "cup_interceptor";
+		camo = "CFR_UN";
+		loadout = "GL";
+	};
+
+	class CFR_V_UN_Interceptor_Rifleman {
+		model = "cup_interceptor";
+		camo = "CFR_UN";
+		loadout = "RIFL";
+	};

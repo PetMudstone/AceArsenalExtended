@@ -181,6 +181,14 @@
             <English>T-Shirt</English>
             <Spanish>Camiseta</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_UN_Description">
+            <English>United Nations</English>
+            <Spanish>Organización de las Naciones Unidas</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_UN_Label">
+            <English>UN</English>
+            <Spanish>ONU</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Yes">
             <English>Yes</English>
             <Spanish>Sí</Spanish>

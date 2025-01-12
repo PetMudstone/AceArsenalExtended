@@ -247,3 +247,53 @@
 		goggles = "yes_cover_back";
 		nvg_mount = "yes";
 	};
+
+// United Nations
+	class CFR_H_UN_PASGT {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "no";
+		nvg_mount = "no";
+	};
+
+	class CFR_H_UN_PASGT_Gg {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "yes";
+		nvg_mount = "no";
+	};
+
+	class CFR_H_UN_PASGT_Cf {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "yes_cover";
+		nvg_mount = "no";
+	};
+
+	class CFR_H_UN_PASGT_Nvg {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "no";
+		nvg_mount = "yes";
+	};
+
+	class CFR_H_UN_PASGT_Nvg_Gg {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "yes";
+		nvg_mount = "yes";
+	};
+
+	class CFR_H_UN_PASGT_Nvg_Cf {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "yes_cover";
+		nvg_mount = "yes";
+	};
+
+	class CFR_H_UN_PASGT_Nvg_Gg_Cb {
+		model = "cup_pasgt";
+		camo = "CFR_UN";
+		goggles = "yes_cover_back";
+		nvg_mount = "yes";
+	};
