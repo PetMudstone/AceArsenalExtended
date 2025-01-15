@@ -35,5 +35,20 @@ class XtdGearInfos {
 		#include "XtdGearInfos\cfr_vest\CfgWeapons\cfr_m23_pioneer.hpp"
 		#include "XtdGearInfos\cfr_vest\CfgWeapons\cfr_osprey_mk3.hpp"
 		#include "XtdGearInfos\cfr_vest\CfgWeapons\cfr_osprey_mk3_pilot.hpp"
+
+		// Weapons : Primaries
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_lk_vz_06.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_lk_vz_11.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_lk_vz_98.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_sa_vz_05.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_sa_vz_96.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_05_gp25.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_05.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_12_gp25.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_12.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_91_gp25.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_91.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_96_gp25.hpp"
+		#include "XtdGearInfos\cfr_weapon\CfgWeapons\cfr_crzm_up_vz_96.hpp"
 	};
 };

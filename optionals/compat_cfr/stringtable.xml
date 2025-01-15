@@ -9,6 +9,10 @@
             <English>Accessory</English>
             <Spanish>Accesorio</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Attachment_System_Label">
+            <English>Attachment System</English>
+            <Spanish>Sistema de Acoplamiento</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Branch_Label">
             <English>Branch</English>
             <Spanish>Rama</Spanish>
@@ -145,6 +149,14 @@
             <English>Plain</English>
             <Spanish>Sencilla</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_RIS_Description">
+            <English>Picatinny Rail Integration System</English>
+            <Spanish>Sistema de Integración Riel Picatinny</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_RIS_Label">
+            <English>RIS</English>
+            <Spanish>RIS</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Scrim_Label">
             <English>Scrim</English>
             <Spanish>Malla</Spanish>
@@ -189,9 +201,25 @@
             <English>UN</English>
             <Spanish>ONU</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_WarsawRail_Description">
+            <English>Warsaw Pact Rail</English>
+            <Spanish>Riel del Pacto de Varsovia</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_WarsawRail_Label">
+            <English>Warsaw</English>
+            <Spanish>Varsovia</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Yes">
             <English>Yes</English>
             <Spanish>Sí</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Zenitco_Railed_Handguard_Picatinny_Description">
+            <English>Zenitco Railed Handguard and Picatinny Rail</English>
+            <Spanish>Guardamanos Zenitco con Riel y Riel Picatinny</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Zenitco_Railed_Handguard_Picatinny_Label">
+            <English>Zenit/Pica</English>
+            <Spanish>Zenit/Pica</Spanish>
         </Key>
     </Package>
 </Project>

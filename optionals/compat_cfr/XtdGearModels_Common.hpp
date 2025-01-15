@@ -70,6 +70,36 @@ class cfr_branch // Used to disambiguate between CDF and MVD where necesary.
 	};
 };
 
+class cfr_attachsys // This is what kind of attachments a gun can accept, roughly. Based on the attachment system common option found in the CUP patch.
+{
+	label = CSTRING(Attachment_System_Label);
+	changeingame = 0;
+	values[] = {};
+
+	class none
+	{
+		label = CSTRING(None);
+	};
+
+	class ris // Used when a gun's attachment system affects its optic AND side attachments (flashlights, lasers).
+	{
+		label = CSTRING(RIS_Label);
+		description = CSTRING(RIS_Description);
+	};
+
+	class warsaw
+	{
+		label = CSTRING(WarsawRail_Label);
+		description = CSTRING(WarsawRail_Description);
+	};
+
+	class zenit_pica
+	{
+		label = CSTRING(Zenitco_Railed_Handguard_Picatinny_Label);
+		description = CSTRING(Zenitco_Railed_Handguard_Picatinny_Description);
+	};
+};
+
 class cfr_loadout // Based on the loadout common option found in the CUP patch.
 {
 	label = "Loadout";
