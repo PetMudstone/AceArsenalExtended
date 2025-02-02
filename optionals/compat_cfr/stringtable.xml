@@ -13,53 +13,61 @@
             <English>Attachment System</English>
             <Spanish>Sistema de Acoplamiento</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_BGS_Sumpfmuster_Description">
+            <English>BGS Sumpfmuster</English>
+            <Spanish>Sumpfmuster BGS</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_BGS_Sumpfmuster_Label">
+            <English>Sumpfmuster</English>
+            <Spanish>Sumpfmuster</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Branch_Label">
             <English>Branch</English>
             <Spanish>Rama</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Description">
-            <English>But-Arid</English>
-            <Spanish>Butan Árido</Spanish>
+            <English>Butan-Arid</English>
+            <Spanish>Árido-Butan-</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Label">
             <English>But-Arid</English>
-            <Spanish>But-Árido</Spanish>
+            <Spanish>Árido-But</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Forest_Description">
-            <English>Butan Forest</English>
-            <Spanish>Butan Bosque</Spanish>
+            <English>Butan-Forest</English>
+            <Spanish>Bosque-Butan</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Forest_Label">
             <English>But-Frs</English>
-            <Spanish>But-Bsq</Spanish>
+            <Spanish>Bsq-But</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Mountain_Description">
-            <English>Butan Mountain</English>
-            <Spanish>Butan Montaña</Spanish>
+            <English>Butan-Mountain</English>
+            <Spanish>Montaña-Butan</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Mountain_Label">
             <English>But-Mtn</English>
-            <Spanish>But-Mtn</Spanish>
+            <Spanish>Mtn-But</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Urban_Description">
-            <English>Butan Urban</English>
-            <Spanish>Butan Urbano</Spanish>
+            <English>Butan-Urban</English>
+            <Spanish>Urbano-Butan</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Urban_Label">
             <English>But-Urb</English>
-            <Spanish>But-Urb</Spanish>
+            <Spanish>Urb-But</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Winter_Description">
-            <English>Butan Winter</English>
-            <Spanish>Butan Invierno</Spanish>
+            <English>Butan-Winter</English>
+            <Spanish>Invierno-Butan</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Winter_Label">
             <English>But-Wntr</English>
-            <Spanish>But-Ivrn</Spanish>
+            <Spanish>Ivrn-But</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_CDF_Combat_Fatigues_Label">
-            <English>CDF Combat Fatigues</English>
-            <Spanish>CDF Fatigas de Combate</Spanish>
+            <English>Combat Fatigues [CDF]</English>
+            <Spanish>Fatigas de Combate [CDF]</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_CDF_Description">
             <English>Chernarussian Defence Forces</English>
@@ -76,6 +84,38 @@
         <Key ID="STR_ACEAX_compat_cfr_CDF_Label">
             <English>CDF</English>
             <Spanish>CDF</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Combat_Fatigues_Label">
+            <English>Combat Fatigues [ChDKZ]</English>
+            <Spanish>Fatigas de Combate [ChDKZ]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Smock_Label">
+            <English>Smock [ChDKZ]</English>
+            <Spanish>Guardapolvo [ChDKZ]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Spray_Paint_Description">
+            <English>ChDKZ Spray Paint</English>
+            <Spanish>Pintura en Aerosol ChDKZ</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Spray_Paint_Label">
+            <English>ChDKZ Spray</English>
+            <Spanish>Pint ChDKZ</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Star_Description">
+            <English>ChDKZ Red Star</English>
+            <Spanish>Estrella Roja ChDKZ</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Star_Description">
+            <English>ChDKZ Red Star</English>
+            <Spanish>Estrella Roja ChDKZ</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Star_Description">
+            <English>ChDKZ Red Star</English>
+            <Spanish>Estrella Roja ChDKZ</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Star_Label">
+            <English>ChDKZ Star</English>
+            <Spanish>Estrella ChDKZ</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Coat_Alternate_Description">
             <English>Coat [Alternate]</English>
@@ -113,9 +153,105 @@
             <English>Faceshield</English>
             <Spanish>Prc Facial</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flora_Description">
+            <English>VSR-98 "Flora" (Saturated)</English>
+            <Spanish>VSR-98 "Flora" (Saturado)</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flora_Label">
+            <English>Flora</English>
+            <Spanish>Flora</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Gloves">
             <English>Gloves</English>
             <Spanish>Guantes</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Brown_Description">
+            <English>Kamysh-Urban/Brown</English>
+            <Spanish>Urbano-Kamysh/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Brown_Label">
+            <English>KMY-URB/Brn</English>
+            <Spanish>URB-KMY/Caf</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Description">
+            <English>Kamysh-Urban</English>
+            <Spanish>Urbano-Kamysh</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Green_Description">
+            <English>Kamysh-Urban/Green</English>
+            <Spanish>Urbano-Kamysh/Verde</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Green_Label">
+            <English>KMY-URB/Grn</English>
+            <Spanish>URB-KMY/Vrd</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Label">
+            <English>KMY-URB</English>
+            <Spanish>URB-KMY</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Label">
+            <English>KMY-URB</English>
+            <Spanish>URB-KMY/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Smog_Description">
+            <English>Kamysh-Urban/Smog</English>
+            <Spanish>Urbano-Kamysh/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Smog_Label">
+            <English>KMY-URB/Smog</English>
+            <Spanish>URB-KMY/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Woodland_Description">
+            <English>Kamysh-Urban/Kamysh-Woodland</English>
+            <Spanish>Urbano-Kamysh/Bosque-Kamysh</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Woodland_Label">
+            <English>KMY-URB/WDL</English>
+            <Spanish>URB/BSQ-KMY</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Brown_Description">
+            <English>Kamysh-Woodland/Brown</English>
+            <Spanish>Bosque-Kamysh/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Brown_Label">
+            <English>KMY-WDL/Brn</English>
+            <Spanish>BSQ-KMY/Caf</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Description">
+            <English>Kamysh-Woodland</English>
+            <Spanish>Bosque-Kamysh</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Flora_Description">
+            <English>Kamysh-Woodland/VSR-98 "Flora" (Saturated)</English>
+            <Spanish>Bosque-Kamysh/VSR-98 "Flora" (Saturado)</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Flora_Label">
+            <English>KMY-WDL/Flr</English>
+            <Spanish>BSQ-KMY/Flr</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Label">
+            <English>KMY-WDL</English>
+            <Spanish>BSQ-KMY</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Smog_Description">
+            <English>Kamysh-Woodland/Smog</English>
+            <Spanish>Bosque-Kamysh/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Smog_Label">
+            <English>KMY-WDL/Smog</English>
+            <Spanish>BSQ-KMY/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Smog_Label">
+            <English>KMY-URB/Smog</English>
+            <Spanish>URB-KMY/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Urban_Description">
+            <English>Kamysh-Woodland/Kamysh-Urban</English>
+            <Spanish>Bosque-Kamysh/Urbano-Kamysh</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Woodland_Urban_Label">
+            <English>KMY-WDL/URB</English>
+            <Spanish>BSQ/URB-KMY</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Lovec_Description">
             <English>Chernarusian "Lovec" Temperate Digital</English>
@@ -136,6 +272,10 @@
         <Key ID="STR_ACEAX_compat_cfr_MVD_Label">
             <English>MVD</English>
             <Spanish>MVD</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_NAPA_Combat_Fatigues_Label">
+            <English>Combat Fatigues [NAPA]</English>
+            <Spanish>Fatigas de Combate [NAPA]</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_No">
             <English>No</English>
@@ -168,6 +308,26 @@
         <Key ID="STR_ACEAX_compat_cfr_Shapebreaker_Label">
             <English>Shpbrkr</English>
             <Spanish>RmpFrm</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Smog_Flora_Description">
+            <English>Smog/VSR-98 "Flora" (Saturated)</English>
+            <Spanish>Esmog/VSR-98 "Flora" (Saturado)</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Smog_Flora_Label">
+            <English>Smog/Flora</English>
+            <Spanish>Esmog/Flora</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Smog_Kamysh_Woodland_Label">
+            <English>Smog/KMY-WDL</English>
+            <Spanish>Esmog/BSQ-KMY</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Smog_Kamysh_Woodland_Label">
+            <English>Smog/Kamysh-Woodland</English>
+            <Spanish>Esmog/Bosque-Kamysh</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Smog_Label">
+            <English>Smog</English>
+            <Spanish>Esmog</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Standard_Label">
             <English>Standard</English>

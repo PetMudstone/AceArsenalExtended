@@ -5,43 +5,43 @@ class CamoBase
 	{
 		label = CSTRING(Butan_Arid_Label);
 		description = CSTRING(Butan_Arid_Description);
-		image = QPATHTOF(data\camo\but_arid.paa);
+		image = QPATHTOF(data\camo\cdf\but_arid.paa);
 	};
 	class CFR_BUT_FRS
 	{
 		label = CSTRING(Butan_Forest_Label);
 		description = CSTRING(Butan_Forest_Description);
-		image = QPATHTOF(data\camo\but_frs.paa);
+		image = QPATHTOF(data\camo\cdf\but_frs.paa);
 	};
 	class CFR_BUT_MTN
 	{
 		label = CSTRING(Butan_Mountain_Label);
 		description = CSTRING(Butan_Mountain_Description);
-		image = QPATHTOF(data\camo\but_mtn.paa);
+		image = QPATHTOF(data\camo\cdf\but_mtn.paa);
 	};
 	class CFR_BUT_WNTR
 	{
 		label = CSTRING(Butan_Winter_Label);
 		description = CSTRING(Butan_Winter_Description);
-		image = QPATHTOF(data\camo\but_wntr.paa);
+		image = QPATHTOF(data\camo\cdf\but_wntr.paa);
 	};
 	class CFR_BUT_URB // Used by the Chernarusian MVD.
 	{
 		label = CSTRING(Butan_Urban_Label);
 		description = CSTRING(Butan_Urban_Description);
-		image = QPATHTOF(data\camo\but_urb.paa);
+		image = QPATHTOF(data\camo\cdf\but_urb.paa);
 	};
 	class CFR_DUNA
 	{
 		label = CSTRING(Duna_Label);
 		description = CSTRING(Duna_Description);
-		image = QPATHTOF(data\camo\digi_duna.paa);
+		image = QPATHTOF(data\camo\cdf\digi_duna.paa);
 	};
 	class CFR_LOVEC
 	{
 		label = CSTRING(Lovec_Label);
 		description = CSTRING(Lovec_Description);
-		image = QPATHTOF(data\camo\digi_lovec.paa);
+		image = QPATHTOF(data\camo\cdf\digi_lovec.paa);
 	};
 	class CFR_UN // For CDF equipment in United Nations colors.
 	{
@@ -49,6 +49,65 @@ class CamoBase
 		description = CSTRING(UN_Description);
 		image = "#(rgb,8,8,3)color(0.21,0.44,0.66,1)";
 	};
+
+	// ChDKZ Camos
+	class CFR_FLRA // Noticeably much more saturated than standard VSR-98 Flora.
+	{
+		label = CSTRING(Flora_Label);
+		description = CSTRING(Flora_Description);
+		image = QPATHTOF(data\camo\chdkz\flora.paa);
+	};
+
+	class CFR_KMY_URB // Referred to as "Kamysh Grey" by CFR but using CUP label for consistency's sake.
+	{
+		label = CSTRING(Kamysh_Urban_Label);
+		description = CSTRING(Kamysh_Urban_Description);
+		image = QPATHTOF(data\camo\chdkz\kmy_urb.paa);
+	};
+
+	class CFR_KMY_WDL // Referred to as "Kamysh Green" by CFR but using CUP label for consistency's sake.
+	{
+		label = CSTRING(Kamysh_Woodland_Label);
+		description = CSTRING(Kamysh_Woodland_Description);
+		image = QPATHTOF(data\camo\chdkz\kmy_wdl.paa);
+	};
+
+	class CFR_SMOG
+	{
+		label = CSTRING(Smog_Label);
+		image = QPATHTOF(data\camo\chdkz\smog.paa);
+	};
+
+	// These are ChDKZ combination camos that show up across multiple models.
+	class CFR_KMY_WDL_SMOG
+	{
+		label = CSTRING(Kamysh_Woodland_Smog_Label);
+		description = CSTRING(Kamysh_Woodland_Smog_Description);
+		image = QPATHTOF(data\camo\chdkz\mixed\kmy_wdl_smog.paa);
+	};
+	
+	class CFR_KMY_WDL_URB
+	{
+		label = CSTRING(Kamysh_Woodland_Urban_Label);
+		description = CSTRING(Kamysh_Woodland_Urban_Description);
+		image = QPATHTOF(data\camo\chdkz\mixed\kmy_wdl_urb.paa);
+	};
+
+	class CFR_KMY_URB_WDL
+	{
+		label = CSTRING(Kamysh_Urban_Woodland_Label);
+		description = CSTRING(Kamysh_Urban_Woodland_Description);
+		image = QPATHTOF(data\camo\chdkz\mixed\kmy_urb_wdl.paa);
+	};
+
+	// NAPA Camo
+	class CFR_SUMPFMUSTER // BGS Sumpfmuster, used by the West German Bundesgrenzschutz (English: Federal Border Protection)
+	{
+		label = CSTRING(BGS_Sumpfmuster_Label);
+		description = CSTRING(BGS_Sumpfmuster_Description);
+		image = QPATHTOF(data\camo\napa\sumpfmuster.paa);
+	};
+
 };
 
 class cfr_branch // Used to disambiguate between CDF and MVD where necesary.

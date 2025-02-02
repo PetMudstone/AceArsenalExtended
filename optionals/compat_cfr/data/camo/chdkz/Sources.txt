@@ -1,0 +1,11 @@
+chdkz_helm_spray.paa sampled from .\CFR_Creatures_Military_ChDKZ\ssh68_chdkz_co.paa
+chdkz_helm_star.paa sampled from  .\CFR_Creatures_Military_ChDKZ\ssh68_chdkz2_co.paa
+flora.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_flora_co.paa
+kmy_urb.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_gray_co.paa
+kmy_wdl.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_green_co.paa
+smog.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_smog_co.paa
+
+Everything in the "mixed" subfolder was made by combining above camos (and using color fill) in GIMP. 
+
+Note that only the top half of the images in the mixed folder have the actual camo (and colors). 
+This is because ACEAX uses the top half of .paa files by default.
