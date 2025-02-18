@@ -25,6 +25,14 @@
             <English>Branch</English>
             <Spanish>Rama</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Brown_Flecktarn_Description">
+            <English>Brown/Flecktarn</English>
+            <Spanish>Café/Flecktarn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Brown_Flecktarn_Label">
+            <English>Brown/FLCK</English>
+            <Spanish>Café/FLCK</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Description">
             <English>Butan-Arid</English>
             <Spanish>Árido-Butan-</Spanish>
@@ -133,6 +141,22 @@
             <English>Combat Helmet [CDF]</English>
             <Spanish>Casco de Combate [CDF]</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_DPM_Brown_Description">
+            <English>Disruptive Pattern Material/Flecktarn</English>
+            <Spanish>Material con Patrón Disruptivo/Flecktarn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_DPM_Brown_Label">
+            <English>DPM/Brown</English>
+            <Spanish>DPM/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_DPM_Flecktarn_Description">
+            <English>Disruptive Pattern Material/Flecktarn</English>
+            <Spanish>Material con Patrón Disruptivo/Flecktarn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_DPM_Flecktarn_Label">
+            <English>DPM/FLCK</English>
+            <Spanish>DPM/FLCK</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Duna_Description">
             <English>Chernarusian "Duna" Arid Digital</English>
             <Spanish>Chernaruso "Duna" Digital Árido</Spanish>
@@ -145,6 +169,22 @@
             <English>Enhanced</English>
             <Spanish>Mejorado</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Erbsenmuster_Description">
+            <English>Erbsenmuster, AKA "Peadot"</English>
+            <Spanish>Erbsenmuster, TCC "Punto de Guisante"</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Erbsenmuster_Flecktarn_Description">
+            <English>Erbsenmuster/Flecktarn</English>
+            <Spanish>Erbsenmuster/Flecktarn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Erbsenmuster_Flecktarn_Label">
+            <English>PD/FLCK</English>
+            <Spanish>GUI/FLCK</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Erbsenmuster_Label">
+            <English>Peadot</English>
+            <Spanish>Guisante</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Faceshield_Description">
             <English>Faceshield</English>
             <Spanish>Protector Facial</Spanish>
@@ -152,6 +192,38 @@
         <Key ID="STR_ACEAX_compat_cfr_Faceshield_Label">
             <English>Faceshield</English>
             <Spanish>Prc Facial</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_Brown_Description">
+            <English>Flecktarn/Brown</English>
+            <Spanish>Flecktarn/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_Brown_Label">
+            <English>FLCK/Brown</English>
+            <Spanish>FLCK/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_DPM_Description">
+            <English>Flecktarn/Disruptive Pattern Material</English>
+            <Spanish>Flecktarn/Material con Patrón Disruptivo</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_DPM_Label">
+            <English>FLCK/DPM</English>
+            <Spanish>FLCK/DPM</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_Erbsenmuster_Description">
+            <English>Flecktarn/Erbsenmuster</English>
+            <Spanish>Flecktarn/Erbsenmuster</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_Erbsenmuster_Label">
+            <English>FLCK/PD</English>
+            <Spanish>FLCK/GUI</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_M81_Description">
+            <English>Flecktarn/M81 Woodland</English>
+            <Spanish>Flecktarn/M81 Bosque</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Flecktarn_M81_Label">
+            <English>FLCK/M81</English>
+            <Spanish>FLCK/M81</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Flora_Description">
             <English>VSR-98 "Flora" (Saturated)</English>
@@ -200,6 +272,14 @@
         <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Smog_Label">
             <English>KMY-URB/Smog</English>
             <Spanish>URB-KMY/Esmog</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Tigr_Urban_Description">
+            <English>Kamysh-Urban/Tigr Urban</English>
+            <Spanish>Urbano-Kamysh/Tigr Urbano</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Tigr_Urban_Label">
+            <English>KMY-URB/Tigr</English>
+            <Spanish>URB-KMY/Tigr</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Kamysh_Urban_Woodland_Description">
             <English>Kamysh-Urban/Kamysh-Woodland</English>
@@ -265,6 +345,30 @@
             <English>M23 Pioneer</English>
             <Spanish>M23 Pionero</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M81_DPM_Description">
+            <English>M81 Woodland/Disruptive Pattern Material</English>
+            <Spanish>M81 Bosque/Material con Patrón Disruptivo</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M81_DPM_Label">
+            <English>M81/DPM</English>
+            <Spanish>M81/DPM</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M81_Flecktarn_Description">
+            <English>M81 Woodland/Flecktarn</English>
+            <Spanish>M81 Bosque/Flecktarn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M81_Flecktarn_Label">
+            <English>M81/FLCK</English>
+            <Spanish>M81/FLCK</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M81_Green_Description">
+            <English>M81 Woodland/Flecktarn</English>
+            <Spanish>M81 Bosque/Flecktarn</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M81_Green_Label">
+            <English>M81/Green</English>
+            <Spanish>M81/Verde</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_MVD_Description">
             <English>Ministerstvo Vnutrennikh Del [Ministry of Internal Affairs]</English>
             <Spanish>Ministerstvo Vnutrennikh Del [Ministerio de Asuntos Interiores]</Spanish>
@@ -276,6 +380,10 @@
         <Key ID="STR_ACEAX_compat_cfr_NAPA_Combat_Fatigues_Label">
             <English>Combat Fatigues [NAPA]</English>
             <Spanish>Fatigas de Combate [NAPA]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_NAPA_Smock_Label">
+            <English>Smock [NAPA]</English>
+            <Spanish>Guardapolvo [NAPA]</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_No">
             <English>No</English>
@@ -352,6 +460,30 @@
         <Key ID="STR_ACEAX_compat_cfr_TShirt_Label">
             <English>T-Shirt</English>
             <Spanish>Camiseta</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Tigr_Urban_Brown_Description">
+            <English>Tigr Urban/Brown</English>
+            <Spanish>Tigr Urbano/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Tigr_Urban_Brown_Label">
+            <English>Tigr U/Brown</English>
+            <Spanish>Tigr U/Café</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Tigr_Urban_Description">
+            <English>Tigr Urban</English>
+            <Spanish>Tigr Urbano</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Tigr_Urban_Kamysh_Urban_Description">
+            <English>Tigr Urban/Kamysh-Urban</English>
+            <Spanish>Tigr Urbano/Urbano-Kamysh</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Tigr_Urban_Kamysh_Urban_Label">
+            <English>Tigr/KMY-URB</English>
+            <Spanish>Tigr/URB-KMY</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Tigr_Urban_Label">
+            <English>Tigr Urb</English>
+            <Spanish>Tigr Urb</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_UN_Description">
             <English>United Nations</English>

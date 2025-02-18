@@ -17,3 +17,8 @@ class CFR_H_ChDKZ_Booniehat_Smog {
 	model = "cfr_boonie_chdkz";
 	camo = "CFR_SMOG";
 };
+
+class CFR_H_ChDKZ_Booniehat_TigrUrban {
+	model = "cfr_boonie_chdkz";
+	camo = "CFR_TIGR_URB";
+};

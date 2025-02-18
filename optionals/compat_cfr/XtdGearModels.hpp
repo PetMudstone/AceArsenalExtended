@@ -13,6 +13,7 @@ class XtdGearModels {
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_beret.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_boonie_cdf.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_boonie_chdkz.hpp"
+		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_boonie_napa.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_combat_helmet.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_field_cap_cdf.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_field_cap_chdkz.hpp"
@@ -24,11 +25,13 @@ class XtdGearModels {
 
 		// Uniform
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_anorak_chdkz.hpp"
+		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_anorak_napa.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_cdf_combat_fatigues.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_cdf_fatigues.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_combat_fatigues_chdkz.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_combat_fatigues_napa.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_smock_chdkz.hpp"
+		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_smock_napa.hpp"
 
 		// Vests
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_6b3.hpp"

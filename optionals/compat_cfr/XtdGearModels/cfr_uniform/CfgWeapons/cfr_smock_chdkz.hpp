@@ -1,7 +1,7 @@
 class cfr_smock_chdkz {
 	label = CSTRING(ChDKZ_Smock_Label);
 	author = "Nata";
-	options[] = { "camo" };
+	options[] = { "camo", "sleeves" };
 	class camo
 	{
 		alwaysSelectable = 1;
@@ -25,6 +25,12 @@ class cfr_smock_chdkz {
 			description = CSTRING(Smog_Flora_Description);
 			image = QPATHTOF(data\camo\chdkz\mixed\smog_flora.paa);
 		};
+	};
+
+	class sleeves
+	{
+		alwaysSelectable = 1;
+		values[] = { "Full", "Quarter" };
 	};
 
 };

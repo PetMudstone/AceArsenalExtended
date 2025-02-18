@@ -4,6 +4,6 @@ class cfr_boonie_chdkz {
 	options[]= { "camo" };
 	class camo
 	{
-		values[] = {"CFR_FLRA", "CFR_KMY_URB", "CFR_KMY_WDL", "CFR_SMOG" };
+		values[] = {"CFR_FLRA", "CFR_KMY_URB", "CFR_KMY_WDL", "CFR_SMOG", "CFR_TIGR_URB" };
 	};
 };

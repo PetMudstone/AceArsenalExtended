@@ -51,12 +51,38 @@
   };
 
 // NAPA Camoflagues.
-  class CFR_H_NAPA_SSH68_Cover_ERDL {
+
+  class CFR_H_NAPA_SSH68_Cover_DPM {
     model = "cup_ssh_68";
-    camo = "ERDL_H";
+    camo = "DPM";
   };
 
   class CFR_H_NAPA_SSH68_Cover_Flecktarn {
     model = "cup_ssh_68";
     camo = "FLCK";
+  };
+
+  class CFR_H_NAPA_SSH68_Cover_M81 {
+    model = "cup_ssh_68";
+    camo = "M81";
+  };
+
+  class CFR_H_NAPA_SSH68_Cover_Mixed_1 {
+    model = "cup_ssh_68";
+    camo = "CFR_M81_FLCK";
+  };
+
+  class CFR_H_NAPA_SSH68_Cover_Mixed_2 {
+    model = "cup_ssh_68";
+    camo = "CFR_PEADOT_FLCK";
+  };
+
+  class CFR_H_NAPA_SSH68_Cover_Mixed_3 {
+    model = "cup_ssh_68";
+    camo = "CFR_M81_DPM";
+  };
+
+  class CFR_H_NAPA_SSH68_Cover_Mixed_4 {
+    model = "cup_ssh_68";
+    camo = "CFR_DPM_FLCK";
   };

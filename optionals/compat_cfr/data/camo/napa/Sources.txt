@@ -1,0 +1,12 @@
+Sources for camos are as follows:
+	peadot.paa sampled from .\CFR_Creatures_Military_NAPA\anorak_napa_erbsenmuster_co.paa
+	sumpfmuster.paa (deprecated?) sampled from .\CFR_Creatures_Military_NAPA\napa_fatigues_sumpfmuster_co.paa when it was still present (it has since been removed).
+
+Everything in the "mixed" subfolder was made by combining above camos and other camos from CFR (and using color fill) in GIMP. 
+Sources for camos that appear in mixed only images is as follows:
+	DPM sampled from .\CFR_Creatures_Military_NAPA\napa_fatigues_dpm_co.paa
+	Flecktarn sampled from .\CFR_Creatures_Military_NAPA\napa_fatigues_flecktarn_co.paa
+	M81 Woodland sampled from .\CFR_Creatures_Military_NAPA\napa_fatigues_m81_co.paa
+
+Note that only the top half of the images in the mixed folder have the actual camo (and colors). 
+This is because ACEAX uses the top half of .paa files by default.

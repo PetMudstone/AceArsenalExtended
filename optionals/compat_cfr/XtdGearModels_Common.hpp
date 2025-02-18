@@ -78,6 +78,13 @@ class CamoBase
 		image = QPATHTOF(data\camo\chdkz\smog.paa);
 	};
 
+	class CFR_TIGR_URB
+	{
+		label = CSTRING(Tigr_Urban_Label);
+		description = CSTRING(Tigr_Urban_Description);
+		image = QPATHTOF(data\camo\chdkz\tigr_urb.paa);
+	};
+
 	// These are ChDKZ combination camos that show up across multiple models.
 	class CFR_KMY_WDL_SMOG
 	{
@@ -101,11 +108,40 @@ class CamoBase
 	};
 
 	// NAPA Camo
+	class CFR_PEADOT // Erbsenmuster, also informally called "Peadot"
+	{
+		label = CSTRING(Erbsenmuster_Label);
+		description = CSTRING(Erbsenmuster_Description);
+		image = QPATHTOF(data\camo\napa\peadot.paa);
+	};
+
 	class CFR_SUMPFMUSTER // BGS Sumpfmuster, used by the West German Bundesgrenzschutz (English: Federal Border Protection)
 	{
 		label = CSTRING(BGS_Sumpfmuster_Label);
 		description = CSTRING(BGS_Sumpfmuster_Description);
 		image = QPATHTOF(data\camo\napa\sumpfmuster.paa);
+	};
+
+	// These are NAPA combination camos that show up across multiple models.
+	class CFR_DPM_FLCK
+	{
+		label = CSTRING(DPM_Flecktarn_Label);
+		description = CSTRING(DPM_Flecktarn_Description);
+		image = QPATHTOF(data\camo\napa\mixed\dpm_flck.paa);
+	};
+
+	class CFR_M81_DPM
+	{
+		label = CSTRING(M81_DPM_Label);
+		description = CSTRING(M81_DPM_Description);
+		image = QPATHTOF(data\camo\napa\mixed\m81_dpm.paa);
+	};
+
+	class CFR_M81_FLCK
+	{
+		label = CSTRING(M81_Flecktarn_Label);
+		description = CSTRING(M81_Flecktarn_Description);
+		image = QPATHTOF(data\camo\napa\mixed\m81_dpm.paa);
 	};
 
 };

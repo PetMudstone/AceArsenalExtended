@@ -4,6 +4,7 @@ flora.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_flora_co.paa
 kmy_urb.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_gray_co.paa
 kmy_wdl.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_green_co.paa
 smog.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_smock_smog_co.paa
+tigr_urb.paa sampled from .\CFR_Creatures_Military_ChDKZ\chdkz_fatigues_tigrurban_co.paa
 
 Everything in the "mixed" subfolder was made by combining above camos (and using color fill) in GIMP. 
 
