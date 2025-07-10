@@ -4,7 +4,6 @@ class XtdGearModels {
 	class CfgVehicles {
         // Backpacks
         #include "XtdGearModels\cfr_backpack\CfgVehicles\cfr_kitbag.hpp"
-		#include "XtdGearModels\cfr_backpack\CfgVehicles\cfr_kitbag_medical.hpp"
     };
 
     class CfgWeapons {
@@ -21,9 +20,12 @@ class XtdGearModels {
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_mk6_helm.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_pasgt.hpp"
 		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_patrol_cap.hpp"
-		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_ssh_68.hpp"
+		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_ssh_68_cdf.hpp"
+		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_ssh_68_chdkz.hpp"
+		#include "XtdGearModels\cfr_headgear\CfgWeapons\cfr_ssh_68_napa.hpp"
 
 		// Uniform
+		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_anorak_civ.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_anorak_chdkz.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_anorak_napa.hpp"
 		#include "XtdGearModels\cfr_uniform\CfgWeapons\cfr_cdf_combat_fatigues.hpp"
@@ -41,9 +43,6 @@ class XtdGearModels {
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_guerilla_jacket_chdkz.hpp"
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_interceptor.hpp"
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_iotv.hpp"
-		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_kwm02_plate_carrier_heavy.hpp"
-		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_kwm02_plate_carrier_light.hpp"
-		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_kwm02_plate_carrier.hpp"
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_m23_pioneer.hpp"
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_osprey_mk3.hpp"
 		#include "XtdGearModels\cfr_vest\CfgWeapons\cfr_osprey_mk3_pilot.hpp"

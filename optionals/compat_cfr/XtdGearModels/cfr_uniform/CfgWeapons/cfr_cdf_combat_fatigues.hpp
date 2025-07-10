@@ -1,6 +1,6 @@
 class cfr_cdf_combat_fatigues {
 	label = CSTRING(CDF_Combat_Fatigues_Label);
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[] = { "camo", "top", "sleeves" };
 	class camo
 	{

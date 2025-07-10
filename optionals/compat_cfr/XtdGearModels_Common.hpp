@@ -311,3 +311,36 @@ class cfr_loadout // Based on the loadout common option found in the CUP patch.
 		description = "Team Leader";
 	};
 };
+
+class cfr_goggles
+{
+	label = CSTRING(Goggles);
+	changeingame = 1;
+	values[] = {};
+
+	class no
+	{
+		label = CSTRING(No);
+		changeingame = -1;
+	};
+
+	class yes
+	{
+		label = CSTRING(Yes);
+		changeingame = -1;
+	};
+
+	class yes_cover
+	{
+		label = "Yes/Cov";
+		description = "Yes (Covered)";
+		changeingame = -1;
+	};
+
+	class yes_cover_back
+	{
+		label = "Yes/CovBck";
+		description = "Yes (Cover on Back)";
+		changeingame = -1;
+	};
+};

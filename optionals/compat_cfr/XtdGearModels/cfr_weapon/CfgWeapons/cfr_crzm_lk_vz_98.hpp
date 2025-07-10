@@ -1,7 +1,7 @@
 class cfr_crzm_lk_vz_98
 {
-    label = "CrZM LK vz. 98";
-    author = "Nata";
+    label = CSTRING(CrZM_LK_vz_98_Label);
+    author = CSTRING(Nata);
     options[] = { "attachsys" };
     class attachsys : cfr_attachsys
     {

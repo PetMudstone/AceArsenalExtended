@@ -1,6 +1,6 @@
 class cfr_guerilla_jacket_chdkz {
 	label = "Guerilla Jacket [ChDKZ]";
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= { "camo" };
 	class camo
 	{

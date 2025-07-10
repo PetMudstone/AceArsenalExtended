@@ -1,6 +1,6 @@
 class cfr_combat_helmet {
 	label = CSTRING(Combat_Helmet_CDF_Label);
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= {"camo", "accessory"};
 	class camo
 	{
@@ -38,7 +38,7 @@ class cfr_combat_helmet {
 		};
 		class uwu
 		{
-			label = ":3";
+			label = CSTRING(CatSmile);
 		};
 	};
 };

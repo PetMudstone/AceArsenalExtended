@@ -1,6 +1,6 @@
 class cfr_cdf_fatigues { // We don't append to CUP's "CDF Camo" since we have different options here.
 	label = CSTRING(CDF_Fatigues_Label);
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[] = { "camo", "branch", "sleeves", "gloves" };
 	class camo
 	{

@@ -1,6 +1,6 @@
 class cfr_boonie_chdkz {
 	label = "Boonie [ChDKZ]";
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= { "camo" };
 	class camo
 	{

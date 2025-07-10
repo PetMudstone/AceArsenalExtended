@@ -1,7 +1,7 @@
 class cfr_crzm_up_vz_96_gp25
 {
-    label = "CrZM UP vz. 96 GP-25";
-    author = "Nata";
+    label = CSTRING(CrZM_UP_vz_96_GP25_Label);
+    author = CSTRING(Nata);
     options[] = { "attachsys" };
     class attachsys : cfr_attachsys
     {

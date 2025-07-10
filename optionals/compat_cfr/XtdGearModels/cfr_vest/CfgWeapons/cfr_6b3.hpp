@@ -1,6 +1,6 @@
 class cfr_6b3 { // We aren't appending to the CUP CDF 6b3 since this one has vastly different options.
 	label = CSTRING(6B3_Label);
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= { "camo", "loadout", "m23" };
 	class camo
 	{

@@ -1,6 +1,6 @@
 class cfr_iotv { // It is its own model since it has many different options.
 	label = "IOTV [CDF]";
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= { "camo", "loadout" };
 	class camo
 	{

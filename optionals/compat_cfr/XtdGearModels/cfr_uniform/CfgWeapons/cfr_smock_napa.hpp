@@ -1,18 +1,17 @@
 class cfr_smock_napa {
 	label = CSTRING(NAPA_Smock_Label);
-	author = "Nata";
-	options[] = { "camo" };
+	author = CSTRING(Nata);
+	options[] = { "camo", "pantscamo" };
 	class camo
 	{
 		alwaysSelectable = 1;
-		values[] = { "DPM", "FLCK", "CFR_FLCK_PEADOT", "M81" };
+		values[] = { "DPM", "FLCK", "M81" }; // Sadly no Peadot yet.
+	};
 
-		class CFR_FLCK_PEADOT
-		{
-			label = CSTRING(Flecktarn_Erbsenmuster_Label);
-			description = CSTRING(Flecktarn_Erbsenmuster_Description);
-			image = QPATHTOF(data\camo\napa\mixed\flck_peadot.paa);
-		};
+	class pantscamo
+	{
+		alwaysSelectable = 1;
+		values[] = { "DPM", "FLCK", "CFR_PEADOT", "M81" };
 	};
 
 };

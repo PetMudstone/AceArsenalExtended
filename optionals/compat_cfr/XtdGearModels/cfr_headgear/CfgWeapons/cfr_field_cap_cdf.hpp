@@ -1,6 +1,6 @@
 class cfr_field_cap_cdf {
 	label = "Field Cap [CDF]";
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= { "camo" };
 	class camo
 	{

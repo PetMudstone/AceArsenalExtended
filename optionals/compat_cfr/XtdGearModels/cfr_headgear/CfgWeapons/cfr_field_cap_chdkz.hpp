@@ -1,6 +1,6 @@
 class cfr_field_cap_chdkz {
 	label = "Field Cap [ChDKZ]";
-	author = "Nata";
+	author = CSTRING(Nata);
 	options[]= { "camo" };
 	class camo
 	{

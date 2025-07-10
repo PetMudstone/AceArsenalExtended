@@ -1,6 +1,6 @@
 class cfr_beret {
-	label = "Beret [CDF]";
-	author = "Nata";
+	label = CSTRING(Beret_CDF_Label);
+	author = CSTRING(Nata);
 	options[]= { "camo", "branch" };
 	class camo
 	{

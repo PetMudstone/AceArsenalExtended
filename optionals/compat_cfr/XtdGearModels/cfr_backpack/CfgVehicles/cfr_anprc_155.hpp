@@ -1,6 +1,6 @@
-class cfr_kitbag_medical {
-	label = "Kitbag Medical [CDF]";
-	author = "Nata";
+class cfr_anprc_155 {
+	label = "AN/PRC-155 [CDF]";
+	author = CSTRING(Nata);
 	options[]= { "camo" };
 	class camo
 	{
