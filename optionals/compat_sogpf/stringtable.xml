@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="ACEAX">
+    <Package name="compat_sogpf">
+        <Key ID="STR_ACEAX_compat_sogpf_Accessories_Label">
+            <English>Accessories</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Folding_Label">
+            <English>Folding</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Leopard_Description">
+            <English>Beo Gam "Leopard"</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Leopard_Label">
+            <English>Leopard</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_MACV_SOG_Description">
+            <English>Military Assistance Command, Vietnam – Studies and Observations Group</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_MACV_SOG_Label">
+            <English>MACV-SOG</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_No">
+            <English>No</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_No">
+            <English>No</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_None">
+            <English>None</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_PAVN_Description">
+            <English>People's Army of Vietnam</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_PAVN_Label">
+            <English>PAVN</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Patch_Label">
+            <English>Patch</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Rebel_Description">
+            <English>Confederate Battle Flag</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Rebel_Label">
+            <English>Rebel</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Spray_Description">
+            <English>Spray Painted</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Spray_Label">
+            <English>Spray</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Tigerstripe_Green_Description">
+            <English>Tigerstripe Green</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Tigerstripe_Green_Label">
+            <English>TSG</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_VC_Description">
+            <English>Viet Cong</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_VC_Label">
+            <English>VC</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_VPN_Description">
+            <English>Vietnam People's Navy</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_VPN_Label">
+            <English>VPN</English>
+        </Key>
+        <Key ID="STR_ACEAX_compat_sogpf_Yes">
+            <English>Yes</English>
+        </Key>
+    </Package>
+</Project>

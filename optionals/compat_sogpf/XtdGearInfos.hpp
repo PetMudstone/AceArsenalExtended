@@ -1,0 +1,58 @@
+class XtdGearInfos {
+    class CfgVehicles {
+        //Backpacks
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_anzac_field.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_anzac_p08.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_anzac_p44.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_army.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_arvn.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_ciso.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_m41.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_nva.hpp"
+        #include "XtdGearInfos\sogpf_backpacks\CfgVehicles\sogpf_pack_tropical.hpp"
+    };
+
+    class CfgWeapons {
+        //Headgear
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_aph6.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_bandana.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_beret_arvn.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_beret_macv_sog.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_beret_medt.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_beret_rac.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_boonie.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_boonie_anzac.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_boonie_pavn.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_cap_pl.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_field_cap_pavn.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_headband.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_m1_helmet_cover.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_m1_helmet_cover_net.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_m1_helmet_cover_rok.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_m1_helmet_steel.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_m1_helmet_steel_bdq.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_non_la.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_pith_helmet.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_shl61.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_svh4.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_t56.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_tsh3.hpp"
+        #include "XtdGearInfos\sogpf_headgear\CfgWeapons\sogpf_zsh03.hpp"
+        //Vests
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_anzac.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_anzac_m1952a.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_army.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_army_m1952a.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_army_m69.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_army_pilot.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_nva.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_sas.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_seal.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_sog.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_usaf_pilot.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_usmc_flak.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_usmc_recon.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_vc.hpp"
+        #include "XtdGearInfos\sogpf_vests\CfgWeapons\sogpf_vest_vpn.hpp"
+    };
+};
