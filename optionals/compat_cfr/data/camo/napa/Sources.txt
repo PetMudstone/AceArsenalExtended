@@ -1,6 +1,7 @@
 Sources for camos are as follows:
 	peadot.paa sampled from .\CFR_Creatures_Military_NAPA\anorak_napa_erbsenmuster_co.paa
 	sumpfmuster.paa (deprecated?) sampled from .\CFR_Creatures_Military_NAPA\napa_fatigues_sumpfmuster_co.paa when it was still present (it has since been removed).
+	jgsw.paa sampled from .\CFR_Creatures_Military_NAPA\napa_smock_flecktarnjigsaw_co.paa
 
 Everything in the "mixed" subfolder was made by combining above camos and other camos from CFR (and using color fill) in GIMP. 
 Sources for camos that appear in mixed only images is as follows:

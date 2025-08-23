@@ -21,13 +21,13 @@
             <English>Sumpfmuster</English>
             <Spanish>Sumpfmuster</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Beret_CDF_Label">
+            <English>Beret [CDF]</English>
+            <Spanish>Boina [CDF]</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_Branch_Label">
             <English>Branch</English>
             <Spanish>Rama</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_Brown_Label">
-            <English>Brown</English>
-            <Spanish>Café</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Brown_Flecktarn_Description">
             <English>Brown/Flecktarn</English>
@@ -36,6 +36,10 @@
         <Key ID="STR_ACEAX_compat_cfr_Brown_Flecktarn_Label">
             <English>Brown/FLCK</English>
             <Spanish>Café/FLCK</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Brown_Label">
+            <English>Brown</English>
+            <Spanish>Café</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Butan_Arid_Description">
             <English>Butan-Arid</English>
@@ -97,6 +101,10 @@
             <English>CDF</English>
             <Spanish>CDF</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CatSmile">
+            <English>:3</English>
+            <Spanish>:3</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_ChDKZ_Combat_Fatigues_Label">
             <English>Combat Fatigues [ChDKZ]</English>
             <Spanish>Fatigas de Combate [ChDKZ]</Spanish>
@@ -144,6 +152,26 @@
         <Key ID="STR_ACEAX_compat_cfr_Combat_Helmet_CDF_Label">
             <English>Combat Helmet [CDF]</English>
             <Spanish>Casco de Combate [CDF]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CrZM_LK_vz_06_Label">
+            <English>CrZM LK vz. 06</English>
+            <Spanish>CrZM LK vz. 06</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CrZM_LK_vz_11_Label">
+            <English>CrZM LK vz. 11</English>
+            <Spanish>CrZM LK vz. 11</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CrZM_LK_vz_98_Label">
+            <English>CrZM LK vz. 98</English>
+            <Spanish>CrZM LK vz. 98</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CrZM_UP_vz_96_GP25_Label">
+            <English>CrZM UP vz. 96 GP-25</English>
+            <Spanish>CrZM UP vz. 96 GP-25</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_CrZM_UP_vz_96_Label">
+            <English>CrZM UP vz. 96</English>
+            <Spanish>CrZM UP vz. 96</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_DPM_Brown_Description">
             <English>Disruptive Pattern Material/Flecktarn</English>
@@ -373,6 +401,10 @@
             <English>M81/Green</English>
             <Spanish>M81/Verde</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_M92_Helmet_CDF_Label">
+            <English>M92 Helmet [CDF]</English>
+            <Spanish>Casco M92 [CDF]</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_MVD_Description">
             <English>Ministerstvo Vnutrennikh Del [Ministry of Internal Affairs]</English>
             <Spanish>Ministerstvo Vnutrennikh Del [Ministerio de Asuntos Interiores]</Spanish>
@@ -393,6 +425,10 @@
             <English>Smock [NAPA]</English>
             <Spanish>Guardapolvo [NAPA]</Spanish>
         </Key>
+        <Key ID="STR_ACEAX_compat_cfr_Nata">
+            <English>Nata</English>
+            <Spanish>Nata</Spanish>
+        </Key>
         <Key ID="STR_ACEAX_compat_cfr_No">
             <English>No</English>
             <Spanish>No</Spanish>
@@ -412,6 +448,18 @@
         <Key ID="STR_ACEAX_compat_cfr_RIS_Label">
             <English>RIS</English>
             <Spanish>RIS</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_SSh68_CDF_Label">
+            <English>SSh-68 [CDF]</English>
+            <Spanish>SSh-68 [CDF]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_SSh68_ChDKZ_Label">
+            <English>SSh-68 [ChDKZ]</English>
+            <Spanish>SSh-68 [ChDKZ]</Spanish>
+        </Key>
+        <Key ID="STR_ACEAX_compat_cfr_SSh68_NAPA_Label">
+            <English>SSh-68 [NAPA]</English>
+            <Spanish>SSh-68 [NAPA]</Spanish>
         </Key>
         <Key ID="STR_ACEAX_compat_cfr_Scrim_Label">
             <English>Scrim</English>
@@ -520,54 +568,6 @@
         <Key ID="STR_ACEAX_compat_cfr_Zenitco_Railed_Handguard_Picatinny_Label">
             <English>Zenit/Pica</English>
             <Spanish>Zenit/Pica</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_CatSmile">
-            <English>:3</English>
-            <Spanish>:3</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_SSh68_CDF_Label">
-            <English>SSh-68 [CDF]</English>
-            <Spanish>SSh-68 [CDF]</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_SSh68_ChDKZ_Label">
-            <English>SSh-68 [ChDKZ]</English>
-            <Spanish>SSh-68 [ChDKZ]</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_SSh68_NAPA_Label">
-            <English>SSh-68 [NAPA]</English>
-            <Spanish>SSh-68 [NAPA]</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_Nata">
-            <English>Nata</English>
-            <Spanish>Nata</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_M92_Helmet_CDF_Label">
-            <English>M92 Helmet [CDF]</English>
-            <Spanish>Casco M92 [CDF]</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_Beret_CDF_Label">
-            <English>Beret [CDF]</English>
-            <Spanish>Boina [CDF]</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_CrZM_LK_vz_06_Label">
-            <English>CrZM LK vz. 06</English>
-            <Spanish>CrZM LK vz. 06</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_CrZM_LK_vz_11_Label">
-            <English>CrZM LK vz. 11</English>
-            <Spanish>CrZM LK vz. 11</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_CrZM_LK_vz_98_Label">
-            <English>CrZM LK vz. 98</English>
-            <Spanish>CrZM LK vz. 98</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_CrZM_UP_vz_96_GP25_Label">
-            <English>CrZM UP vz. 96 GP-25</English>
-            <Spanish>CrZM UP vz. 96 GP-25</Spanish>
-        </Key>
-        <Key ID="STR_ACEAX_compat_cfr_CrZM_UP_vz_96_Label">
-            <English>CrZM UP vz. 96</English>
-            <Spanish>CrZM UP vz. 96</Spanish>
         </Key>
     </Package>
 </Project>

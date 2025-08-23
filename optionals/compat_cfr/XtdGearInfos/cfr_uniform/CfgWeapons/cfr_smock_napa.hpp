@@ -31,6 +31,12 @@
 		pantscamo = "DPM";
 	};
 
+	class CFR_U_I_NAPA_Smock_Flecktarn_Jigsaw { // Only place where Jigsaw camo appears, for now.
+		model = "cfr_smock_napa";
+		camo = "FLCK";
+		pantscamo = "CFR_JGSW";
+	};
+
 	class CFR_U_I_NAPA_Smock_Flecktarn_M81 {
 		model = "cfr_smock_napa";
 		camo = "FLCK";
