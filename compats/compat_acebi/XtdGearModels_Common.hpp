@@ -97,3 +97,18 @@ class CamoBase
 		image = "z\aceax\compats\ACEandBI\data\camo\rus_taiga.paa";
 	};
 };
+
+class PhosphorBase
+{
+	label="Phosphor Color";
+	options[]={};
+	class GRN {
+		label="Green";
+		image="#(rgb,8,8,3)color(0.0,0.8,0.2,1)"
+	};
+	class WHT
+	{
+		label="White";
+		image="#(rgb,8,8,3)color(0.0,1,0.9,1)"
+	};
+};
