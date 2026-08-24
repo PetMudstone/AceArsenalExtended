@@ -4,7 +4,7 @@ class U_I_HeliPilotCoveralls {
 };
 class U_I_E_Uniform_01_coveralls_F {
   model = "acebi_heli_cover";
-  faction = "CSAT";
+  faction = "LDF";
 };
 class U_B_HeliPilotCoveralls {
   model = "acebi_heli_cover";

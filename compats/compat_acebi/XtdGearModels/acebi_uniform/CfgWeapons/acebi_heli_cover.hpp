@@ -4,7 +4,7 @@ class acebi_heli_cover
     label="Heli Pilot Cover.";
     class faction
     {
-        values[] = { "AAF", "CSAT", "NATO" }; // Always computed, do not acebi
+        values[] = { "AAF", "LDF", "NATO" }; // Always computed, do not acebi
         alwaysSelectable=1;
     };
 };
